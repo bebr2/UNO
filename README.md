@@ -1,8 +1,10 @@
+All prompt templates in this project are in the `prompts.py` file.
+
 ## Getting Started
 
 ### Environment Setup
 
-We recommend using `conda` to create a virtual environment:
+create a virtual environment:
 
 ```bash
 conda create -n uno python=3.11.14
