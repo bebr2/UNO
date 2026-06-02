@@ -6,6 +6,10 @@ import json
 from utils import get_dpo_data_with_valid
 import datasets
 import ast
+import os
+
+
+MEMORYBENCH_PATH = os.getenv("MEMORYBENCH_PATH")
 def convert_str_to_obj(example):
     for col in example.keys():
         if col.startswith("dialog") or col.startswith("implicit_feedback") or col in ["input_chat_messages", "info"]:
@@ -19,7 +23,9 @@ def convert_str_to_obj(example):
 
 
 def load_data(name, split="train"):
-    dataset = datasets.load_dataset("path/to/MemoryBench", name)
+    if not MEMORYBENCH_PATH:
+        raise ValueError("Please set MEMORYBENCH_PATH to the local MemoryBench dataset path.")
+    dataset = datasets.load_dataset(MEMORYBENCH_PATH, name)
     dataset = dataset.map(convert_str_to_obj)
     return dataset[split]
 

@@ -1,4 +1,3 @@
-from cluster_a import QuestionClusterer
 import argparse
 import os
 import ast
@@ -14,6 +13,7 @@ import re
 
 HOME_PATH = os.getenv("HOME_PATH", ".")
 LLM_PATH = os.getenv("LLM_PATH", "../LLM")
+MEMORYBENCH_PATH = os.getenv("MEMORYBENCH_PATH")
 
 def convert_str_to_obj(example):
     for col in example.keys():
@@ -119,7 +119,9 @@ if __name__ == "__main__":
         DATASET_NAME = item["dataset_name"]
         if "Locomo" in DATASET_NAME or "DialSim" in DATASET_NAME:
             continue
-        dataset = load_dataset("path/to/MemoryBench", DATASET_NAME)
+        if not MEMORYBENCH_PATH:
+            raise ValueError("Please set MEMORYBENCH_PATH to the local MemoryBench dataset path.")
+        dataset = load_dataset(MEMORYBENCH_PATH, DATASET_NAME)
         train_dataset = dataset.map(convert_str_to_obj)["train"]
         max_tokens_dict[DATASET_NAME] = item.get("max_tokens", 2048)
         max_tokens_dict[DATASET_NAME] = max(2048, max_tokens_dict[DATASET_NAME])
@@ -195,6 +197,8 @@ if __name__ == "__main__":
         with open(train_file_path, "w", encoding="utf-8") as fout:
             json.dump(small_train_data, fout, ensure_ascii=False, indent=2)
     print(f"Training data saved to {train_file_path}")
+
+    from cluster_a import QuestionClusterer
 
     clusterer = QuestionClusterer(distance_threshold=float(args.distance_threshold), model_name="Qwen/Qwen3-Embedding-0.6B")
 

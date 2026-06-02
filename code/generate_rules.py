@@ -21,6 +21,7 @@ from datasets import load_dataset
 from prompts import get_qa, get_all_qa, get_prompt, get_prompt_no_feedback, rules_schema
 
 HOME_PATH = os.getenv("HOME_PATH", ".")
+MEMORYBENCH_PATH = os.getenv("MEMORYBENCH_PATH")
 API_URL = "http://localhost:8000/v1/chat/completions"
 
 
@@ -60,7 +61,9 @@ async def main():
         if "Locomo" in DATASET_NAME or "DialSim" in DATASET_NAME:
             continue
         if MODEL_NAME == "Qwen3-8B":
-            dataset = load_dataset("path/to/MemoryBench", DATASET_NAME)
+            if not MEMORYBENCH_PATH:
+                raise ValueError("Please set MEMORYBENCH_PATH to the local MemoryBench dataset path.")
+            dataset = load_dataset(MEMORYBENCH_PATH, DATASET_NAME)
             dataset = dataset.map(convert_str_to_obj)["train"]
         else:
             dataset = json.load(open(os.path.join(f"../../../MemoryBench/dialogs-{MODEL_NAME}", DATASET_NAME, "wo_memory/dataset.json"), "r"))

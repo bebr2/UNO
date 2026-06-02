@@ -1,4 +1,3 @@
-from cluster_a import QuestionClusterer
 import argparse
 import os
 import ast

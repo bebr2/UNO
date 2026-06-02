@@ -11,6 +11,7 @@ from time import sleep
 
 HOME_PATH = os.getenv("HOME_PATH", ".")
 LLM_PATH = os.getenv("LLM_PATH", "../LLM")
+MEMORYBENCH_PATH = os.getenv("MEMORYBENCH_PATH")
 
 def convert_str_to_obj(example):
     for col in example.keys():
@@ -82,7 +83,9 @@ if __name__ == "__main__":
         if "Locomo" in DATASET_NAME or "DialSim" in DATASET_NAME:
             continue
         cluster_result[DATASET_NAME] = []
-        dataset = load_dataset("path/to/MemoryBench", DATASET_NAME)
+        if not MEMORYBENCH_PATH:
+            raise ValueError("Please set MEMORYBENCH_PATH to the local MemoryBench dataset path.")
+        dataset = load_dataset(MEMORYBENCH_PATH, DATASET_NAME)
         train_dataset = dataset.map(convert_str_to_obj)["train"]
         max_tokens_dict[DATASET_NAME] = item.get("max_tokens", 2048)
         max_tokens_dict[DATASET_NAME] = max(2048, max_tokens_dict[DATASET_NAME])

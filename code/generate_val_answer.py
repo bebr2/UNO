@@ -18,6 +18,7 @@ import asyncio
 from datasets import load_dataset
 
 HOME_PATH = os.getenv("HOME_PATH", ".")
+MEMORYBENCH_PATH = os.getenv("MEMORYBENCH_PATH")
 API_URL = "http://localhost:8000/v1/chat/completions"
 
 
@@ -55,7 +56,9 @@ def get_dpo_data(cluster_path, cluster_key, config_path, seed=42):
         all_dataset_name_to_max_tokens[dataset_name] = max_tokens
     all_questions = {}
     for dataset_name in all_dataset_name:
-        dataset = load_dataset("path/to/MemoryBench", dataset_name)
+        if not MEMORYBENCH_PATH:
+            raise ValueError("Please set MEMORYBENCH_PATH to the local MemoryBench dataset path.")
+        dataset = load_dataset(MEMORYBENCH_PATH, dataset_name)
         train_dataset = dataset.map(convert_str_to_obj)["train"]
         for item in train_dataset:
             question_id = f"{dataset_name}_{item['test_idx']}"
