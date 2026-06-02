@@ -1,0 +1,1302 @@
+[
+  {
+    "test_idx": 48,
+    "metrics": {
+      "rougel": 0.09374999632934586
+    },
+    "dataset": "LexEval-Summarization"
+  },
+  {
+    "test_idx": 665,
+    "metrics": {
+      "rougel": 0.26666666265432104
+    },
+    "dataset": "LexEval-Summarization"
+  },
+  {
+    "test_idx": 228,
+    "metrics": {
+      "rougel": 0.23463686797665498
+    },
+    "dataset": "LexEval-Summarization"
+  },
+  {
+    "test_idx": 656,
+    "metrics": {
+      "rougel": 0.21935483583267432
+    },
+    "dataset": "LexEval-Summarization"
+  },
+  {
+    "test_idx": 643,
+    "metrics": {
+      "rougel": 0.19895287633124092
+    },
+    "dataset": "LexEval-Summarization"
+  },
+  {
+    "test_idx": 470,
+    "metrics": {
+      "rougel": 0.2291666621880426
+    },
+    "dataset": "LexEval-Summarization"
+  },
+  {
+    "test_idx": 618,
+    "metrics": {
+      "rougel": 0.16822429529216534
+    },
+    "dataset": "LexEval-Summarization"
+  },
+  {
+    "test_idx": 284,
+    "metrics": {
+      "rougel": 0.29714285349485714
+    },
+    "dataset": "LexEval-Summarization"
+  },
+  {
+    "test_idx": 787,
+    "metrics": {
+      "rougel": 0.3295454504293647
+    },
+    "dataset": "LexEval-Summarization"
+  },
+  {
+    "test_idx": 203,
+    "metrics": {
+      "rougel": 0.2439024347669245
+    },
+    "dataset": "LexEval-Summarization"
+  },
+  {
+    "test_idx": 394,
+    "metrics": {
+      "rougel": 0.21459227077234802
+    },
+    "dataset": "LexEval-Summarization"
+  },
+  {
+    "test_idx": 784,
+    "metrics": {
+      "rougel": 0.18245613543514944
+    },
+    "dataset": "LexEval-Summarization"
+  },
+  {
+    "test_idx": 865,
+    "metrics": {
+      "rougel": 0.15894039424762074
+    },
+    "dataset": "LexEval-Summarization"
+  },
+  {
+    "test_idx": 511,
+    "metrics": {
+      "rougel": 0.27272726848625406
+    },
+    "dataset": "LexEval-Summarization"
+  },
+  {
+    "test_idx": 517,
+    "metrics": {
+      "rougel": 0.29999999655204085
+    },
+    "dataset": "LexEval-Summarization"
+  },
+  {
+    "test_idx": 764,
+    "metrics": {
+      "rougel": 0.15686274322525526
+    },
+    "dataset": "LexEval-Summarization"
+  },
+  {
+    "test_idx": 546,
+    "metrics": {
+      "rougel": 0.10699588118274665
+    },
+    "dataset": "LexEval-Summarization"
+  },
+  {
+    "test_idx": 754,
+    "metrics": {
+      "rougel": 0.24043715402550098
+    },
+    "dataset": "LexEval-Summarization"
+  },
+  {
+    "test_idx": 142,
+    "metrics": {
+      "rougel": 0.10322580365952141
+    },
+    "dataset": "LexEval-Summarization"
+  },
+  {
+    "test_idx": 616,
+    "metrics": {
+      "rougel": 0.14705882160515185
+    },
+    "dataset": "LexEval-Summarization"
+  },
+  {
+    "test_idx": 867,
+    "metrics": {
+      "rougel": 0.26737967478623925
+    },
+    "dataset": "LexEval-Summarization"
+  },
+  {
+    "test_idx": 826,
+    "metrics": {
+      "rougel": 0.1990049717046608
+    },
+    "dataset": "LexEval-Summarization"
+  },
+  {
+    "test_idx": 323,
+    "metrics": {
+      "rougel": 0.33149170804432104
+    },
+    "dataset": "LexEval-Summarization"
+  },
+  {
+    "test_idx": 597,
+    "metrics": {
+      "rougel": 0.3963963914369775
+    },
+    "dataset": "LexEval-Summarization"
+  },
+  {
+    "test_idx": 938,
+    "metrics": {
+      "rougel": 0.07692307373849455
+    },
+    "dataset": "LexEval-Summarization"
+  },
+  {
+    "test_idx": 146,
+    "metrics": {
+      "rougel": 0.31901840190447517
+    },
+    "dataset": "LexEval-Summarization"
+  },
+  {
+    "test_idx": 990,
+    "metrics": {
+      "rougel": 0.27272726913337925
+    },
+    "dataset": "LexEval-Summarization"
+  },
+  {
+    "test_idx": 117,
+    "metrics": {
+      "rougel": 0.15384615132523374
+    },
+    "dataset": "LexEval-Summarization"
+  },
+  {
+    "test_idx": 642,
+    "metrics": {
+      "rougel": 0.16352200914520795
+    },
+    "dataset": "LexEval-Summarization"
+  },
+  {
+    "test_idx": 566,
+    "metrics": {
+      "rougel": 0.11999999704800006
+    },
+    "dataset": "LexEval-Summarization"
+  },
+  {
+    "test_idx": 131,
+    "metrics": {
+      "rougel": 0.385650219259587
+    },
+    "dataset": "LexEval-Summarization"
+  },
+  {
+    "test_idx": 175,
+    "metrics": {
+      "rougel": 0.1818181770618993
+    },
+    "dataset": "LexEval-Summarization"
+  },
+  {
+    "test_idx": 352,
+    "metrics": {
+      "rougel": 0.2634146298888757
+    },
+    "dataset": "LexEval-Summarization"
+  },
+  {
+    "test_idx": 276,
+    "metrics": {
+      "rougel": 0.21596243718750696
+    },
+    "dataset": "LexEval-Summarization"
+  },
+  {
+    "test_idx": 269,
+    "metrics": {
+      "rougel": 0.2999999971780001
+    },
+    "dataset": "LexEval-Summarization"
+  },
+  {
+    "test_idx": 633,
+    "metrics": {
+      "rougel": 0.37442921879026714
+    },
+    "dataset": "LexEval-Summarization"
+  },
+  {
+    "test_idx": 999,
+    "metrics": {
+      "rougel": 0.15999999656800007
+    },
+    "dataset": "LexEval-Summarization"
+  },
+  {
+    "test_idx": 114,
+    "metrics": {
+      "rougel": 0.3561643796462751
+    },
+    "dataset": "LexEval-Summarization"
+  },
+  {
+    "test_idx": 161,
+    "metrics": {
+      "rougel": 0.23529411429173877
+    },
+    "dataset": "LexEval-Summarization"
+  },
+  {
+    "test_idx": 305,
+    "metrics": {
+      "rougel": 0.06349205955152455
+    },
+    "dataset": "LexEval-Summarization"
+  },
+  {
+    "test_idx": 825,
+    "metrics": {
+      "rougel": 0.0657894711158242
+    },
+    "dataset": "LexEval-Summarization"
+  },
+  {
+    "test_idx": 257,
+    "metrics": {
+      "rougel": 0.07142856861128838
+    },
+    "dataset": "LexEval-Summarization"
+  },
+  {
+    "test_idx": 70,
+    "metrics": {
+      "rougel": 0.39423076504622784
+    },
+    "dataset": "LexEval-Summarization"
+  },
+  {
+    "test_idx": 887,
+    "metrics": {
+      "rougel": 0.12820512560157796
+    },
+    "dataset": "LexEval-Summarization"
+  },
+  {
+    "test_idx": 165,
+    "metrics": {
+      "rougel": 0.15789473322714692
+    },
+    "dataset": "LexEval-Summarization"
+  },
+  {
+    "test_idx": 777,
+    "metrics": {
+      "rougel": 0.3465703921171917
+    },
+    "dataset": "LexEval-Summarization"
+  },
+  {
+    "test_idx": 933,
+    "metrics": {
+      "rougel": 0.17391304089792062
+    },
+    "dataset": "LexEval-Summarization"
+  },
+  {
+    "test_idx": 908,
+    "metrics": {
+      "rougel": 0.20359281043422142
+    },
+    "dataset": "LexEval-Summarization"
+  },
+  {
+    "test_idx": 978,
+    "metrics": {
+      "rougel": 0.23225806226847034
+    },
+    "dataset": "LexEval-Summarization"
+  },
+  {
+    "test_idx": 169,
+    "metrics": {
+      "rougel": 0.31730768816244453
+    },
+    "dataset": "LexEval-Summarization"
+  },
+  {
+    "test_idx": 2119,
+    "metrics": {
+      "best_hypothesis_by_bertf1": "The identification of human stem cell-derived BBB models that accurately reflect BBB properties and cancer cell interactions suggests a new avenue for studying brain metastasis. A novel hypothesis is that the glycosylation patterns of breast cancer cells, particularly those involving gangliosides, play a critical role in their ability to adhere to and cross the BBB. This could be tested by using human stem cell-derived BBB models and treating breast cancer cells with inhibitors of ganglioside biosynthesis, such as GM1 synthase inhibitors. Adhesion and transmigration of cancer cells across the BBB can be assessed using transwell assays and live-cell imaging. Additionally, changes in glycosylation patterns can be analyzed using lectin binding assays or mass spectrometry. These experiments would validate the hypothesis that modulating glycosylation pathways could be a strategy to prevent brain metastasis.",
+      "bert_score": 0.6096346974372864,
+      "llm_rating_score": 3,
+      "llm_novelty_ranking_score": 1.0,
+      "llm_feasibility_ranking_score": 0.6666666666666666
+    },
+    "dataset": "IdeaBench"
+  },
+  {
+    "test_idx": 1138,
+    "metrics": {
+      "best_hypothesis_by_bertf1": "Abstract 2 highlights the importance of charge separation and proton transfer in enhancing photocatalytic efficiency, particularly in oxygen reduction reactions. Inspired by this, a new hypothesis is that hybrid organic-inorganic nanomaterials with embedded redox-active sites could be designed to facilitate the efficient conversion of oxygen to hydrogen peroxide in biomedical applications, such as wound healing or antimicrobial therapies. These materials could be used to generate H2O2 in a controlled manner, leveraging the synergistic interplay between electron-rich and electron-deficient regions to enhance two-electron oxygen reduction pathways without the need for external agents, thus enabling localized and sustainable therapeutic applications.",
+      "bert_score": 0.5652320981025696,
+      "llm_rating_score": 3,
+      "llm_novelty_ranking_score": 1.0,
+      "llm_feasibility_ranking_score": 0.0
+    },
+    "dataset": "IdeaBench"
+  },
+  {
+    "test_idx": 419,
+    "metrics": {
+      "best_hypothesis_by_bertf1": "Structural diversity in forest canopies may serve as a proxy for ecosystem function, offering a more robust indicator of productivity than traditional measures like species diversity or vegetation area index. By focusing on canopy traits such as rugosity, which reflect the physical complexity of the forest structure, we could develop new metrics for assessing and managing forest health and carbon dynamics. This approach could improve the accuracy of ecosystem models and inform more effective reforestation and conservation strategies.",
+      "bert_score": 0.6175194978713989,
+      "llm_rating_score": 9,
+      "llm_novelty_ranking_score": 1.0,
+      "llm_feasibility_ranking_score": 1.0
+    },
+    "dataset": "IdeaBench"
+  },
+  {
+    "test_idx": 995,
+    "metrics": {
+      "best_hypothesis_by_bertf1": "The structural and functional differences between the tyrosine-sulfated CCR5 N terminus and the antibody 412d suggest that sulfotyrosine can act as a molecular mimic in immune recognition. Building on this, a novel hypothesis is that sulfotyrosine-containing epitopes on viral proteins may be targeted by engineered antibodies designed to recognize these modifications, potentially leading to the development of broadly neutralizing antibodies that specifically bind to sulfotyrosine residues on viral glycoproteins, thereby blocking viral entry.",
+      "bert_score": 0.5529903173446655,
+      "llm_rating_score": 4,
+      "llm_novelty_ranking_score": 0.6666666666666666,
+      "llm_feasibility_ranking_score": 0.0
+    },
+    "dataset": "IdeaBench"
+  },
+  {
+    "test_idx": 1554,
+    "metrics": {
+      "best_hypothesis_by_bertf1": "G6PD deficiency, an X-linked disorder, predominantly affects males, but female carriers may exhibit variable phenotypes. A novel hypothesis is that epigenetic mechanisms, such as DNA methylation or histone modifications, could modulate G6PD expression in female carriers, leading to a milder disease phenotype. Investigating these epigenetic changes in carrier females could reveal new therapeutic avenues for managing the disorder and enhance our understanding of sex-specific gene regulation in metabolic diseases.",
+      "bert_score": 0.5427761077880859,
+      "llm_rating_score": 1,
+      "llm_novelty_ranking_score": 1.0,
+      "llm_feasibility_ranking_score": 0.0
+    },
+    "dataset": "IdeaBench"
+  },
+  {
+    "test_idx": 858,
+    "metrics": {
+      "best_hypothesis_by_bertf1": "The differential association of OPN polymorphisms with specific SLE manifestations, such as nephritis and joint symptoms, suggests that genetic variation in OPN may influence tissue-specific immune responses. A novel hypothesis is that OPN variants may modulate the recruitment and activation of immune cells in distinct tissues, thereby contributing to organ-specific inflammation in autoimmune diseases. To test this, one could analyze OPN expression and immune cell infiltration in affected tissues from SLE patients with varying genotypes, combined with functional assays to assess how specific OPN variants affect immune cell behavior in different microenvironments.",
+      "bert_score": 0.5400378704071045,
+      "llm_rating_score": 7,
+      "llm_novelty_ranking_score": 1.0,
+      "llm_feasibility_ranking_score": 0.0
+    },
+    "dataset": "IdeaBench"
+  },
+  {
+    "test_idx": 1857,
+    "metrics": {
+      "best_hypothesis_by_bertf1": "Abstract 2 introduces nucleic acid analogues with a phosphoryl guanidine group that maintain strong binding affinity to complementary DNA or RNA. This could inspire a hypothesis that such modified nucleotides could be used to create hybridization probes with enhanced stability and specificity, particularly in challenging environments. By incorporating phosphoryl guanidine groups into probe designs, it may be possible to improve the performance of in situ hybridization techniques or biosensors, where probe integrity and hybridization efficiency are essential for reliable results.",
+      "bert_score": 0.5755607485771179,
+      "llm_rating_score": 3,
+      "llm_novelty_ranking_score": 0.0,
+      "llm_feasibility_ranking_score": 0.3333333333333333
+    },
+    "dataset": "IdeaBench"
+  },
+  {
+    "test_idx": 396,
+    "metrics": {
+      "best_hypothesis_by_bertf1": "The application of 2SMR to host genetic variants associated with Akt signaling and pyroptosis regulation could reveal causal links between host genetic risk factors and S. Infantis pathogenesis. By analyzing GWAS data from MR-Base, we might identify host genes that modulate the effectiveness of SopB-mediated Akt phosphorylation or pyroptosis, providing a framework to understand how genetic variation influences the outcome of Salmonella infections and informing the development of targeted interventions.",
+      "bert_score": 0.5425430536270142,
+      "llm_rating_score": 3,
+      "llm_novelty_ranking_score": 1.0,
+      "llm_feasibility_ranking_score": 0.0
+    },
+    "dataset": "IdeaBench"
+  },
+  {
+    "test_idx": 1936,
+    "metrics": {
+      "best_hypothesis_by_bertf1": "The early establishment of gender norms through familial and educational environments may shape adolescent girls' perceptions of autonomy and responsibility, influencing their sexual decision-making and vulnerability to HIV. A novel hypothesis could propose that the internalization of restrictive gender roles during early childhood, particularly in contexts where girls are socialized to prioritize family obligations over personal agency, may lead to delayed or inconsistent use of contraception and increased likelihood of engaging in unprotected sex. This hypothesis suggests that interventions should focus on reshaping early gender socialization through community-based education and parental engagement to promote healthier sexual behaviors and reduce HIV risk among adolescent girls.",
+      "bert_score": 0.5946985483169556,
+      "llm_rating_score": 8,
+      "llm_novelty_ranking_score": 1.0,
+      "llm_feasibility_ranking_score": 0.0
+    },
+    "dataset": "IdeaBench"
+  },
+  {
+    "test_idx": 1731,
+    "metrics": {
+      "best_hypothesis_by_bertf1": "Abstract 3 highlights the unique biaxial halogen bonding capabilities of iodine(III) compounds, suggesting a new dimension in noncovalent interactions. Building on this, a novel hypothesis is that the dual electrophilic axes of iodine(III) species could be harnessed to create highly specific and directional molecular recognition events, particularly in supramolecular systems. This could lead to the development of advanced drug delivery systems or molecular sensors where the biaxial nature of iodine(III) interactions enables precise and selective binding to target molecules, enhancing both functionality and specificity in biomedical applications.",
+      "bert_score": 0.590952455997467,
+      "llm_rating_score": 3,
+      "llm_novelty_ranking_score": 0.0,
+      "llm_feasibility_ranking_score": 0.0
+    },
+    "dataset": "IdeaBench"
+  },
+  {
+    "test_idx": 29,
+    "metrics": {
+      "best_hypothesis_by_bertf1": "The superior progression-free survival and safety profile of osimertinib compared to standard EGFR-TKIs in EGFR-mutated NSCLC suggest that third-generation inhibitors may have broader effects beyond their primary target. A novel hypothesis is that osimertinib's ability to inhibit downstream signaling pathways may alter the tumor microenvironment, reducing immune evasion and enhancing the efficacy of immune checkpoint inhibitors. This could lead to a synergistic effect when osimertinib is combined with immunotherapy in EGFR-mutated NSCLC, offering a new treatment strategy for patients with resistance to traditional targeted therapies.",
+      "bert_score": 0.5074360966682434,
+      "llm_rating_score": 3,
+      "llm_novelty_ranking_score": 1.0,
+      "llm_feasibility_ranking_score": 0.0
+    },
+    "dataset": "IdeaBench"
+  },
+  {
+    "test_idx": 249,
+    "metrics": {
+      "best_hypothesis_by_bertf1": "The Hayabusa2 findings on Ryugu indicate that the asteroid's surface contains hydrated minerals and organic matter, suggesting aqueous alteration occurred on its progenitor body. A new hypothesis could explore the role of impact-induced heating in facilitating aqueous alteration by using thermal modeling and mineralogical analysis of Ryugu samples. By simulating the thermal conditions generated during hypervelocity impacts, researchers can assess whether such events could have triggered or enhanced aqueous processes, leading to the formation of complex organic molecules in a space environment.",
+      "bert_score": 0.564880907535553,
+      "llm_rating_score": 4,
+      "llm_novelty_ranking_score": 1.0,
+      "llm_feasibility_ranking_score": 0.0
+    },
+    "dataset": "IdeaBench"
+  },
+  {
+    "test_idx": 240,
+    "metrics": {
+      "best_hypothesis_by_bertf1": "LRP1 is essential for β-cell survival and function, and imatinib enhances β-cell protection through ERK activation. A novel hypothesis is that combining LRP1-targeting strategies with agents that activate the PI3K/Akt pathway could synergistically improve β-cell resilience against stressors like cytokines and lipotoxic agents, offering a more effective therapeutic approach for diabetes by enhancing both survival and functional capacity of β-cells.",
+      "bert_score": 0.574866771697998,
+      "llm_rating_score": 4,
+      "llm_novelty_ranking_score": 0.6666666666666666,
+      "llm_feasibility_ranking_score": 0.3333333333333333
+    },
+    "dataset": "IdeaBench"
+  },
+  {
+    "test_idx": 1486,
+    "metrics": {
+      "best_hypothesis_by_bertf1": "Striatal output regulation may be influenced by the interplay between glutamatergic and GABAergic plasticity, with endocannabinoid signaling acting as a modulatory switch. Building on the differential sensitivity of these synapses to endocannabinoids, a novel hypothesis is that endocannabinoid signaling dynamically balances excitatory and inhibitory inputs to fine-tune striatal output during learning and motor tasks. By manipulating endocannabinoid levels and monitoring synaptic plasticity in real-time, we could uncover how this balance contributes to motor control and how its disruption may lead to movement disorders like Parkinson’s disease.",
+      "bert_score": 0.570138156414032,
+      "llm_rating_score": 7,
+      "llm_novelty_ranking_score": 1.0,
+      "llm_feasibility_ranking_score": 0.0
+    },
+    "dataset": "IdeaBench"
+  },
+  {
+    "test_idx": 1839,
+    "metrics": {
+      "best_hypothesis_by_bertf1": "Endovascular treatment with PTA/stenting for TRAS has demonstrated efficacy in restoring renal function and blood pressure control, but the long-term vascular consequences remain underexplored. A novel hypothesis could be that the mechanical stress induced by PTA may alter the renal artery wall composition, potentially leading to accelerated atherosclerosis or aneurysm formation over time. This could be investigated by comparing longitudinal vascular imaging and biomarker profiles of patients who underwent PTA with those who received alternative interventions, such as surgical bypass.",
+      "bert_score": 0.5369052290916443,
+      "llm_rating_score": 4,
+      "llm_novelty_ranking_score": 1.0,
+      "llm_feasibility_ranking_score": 0.0
+    },
+    "dataset": "IdeaBench"
+  },
+  {
+    "test_idx": 2251,
+    "metrics": {
+      "best_hypothesis_by_bertf1": "PIVKA-II, a promising biomarker for pancreatic adenocarcinoma (PDAC), may not only originate from PDAC cells but also be influenced by the tumor microenvironment. Given that PIVKA-II levels decrease post-surgery, it is plausible that immune cells or stromal components within the tumor microenvironment regulate its production. A novel hypothesis is that PIVKA-II expression in PDAC is dynamically modulated by interactions with immune cells, and targeting these interactions could enhance the diagnostic and prognostic value of PIVKA-II. Investigating how immune cell subsets influence PIVKA-II secretion could reveal new therapeutic strategies and improve patient monitoring.",
+      "bert_score": 0.6246663331985474,
+      "llm_rating_score": 3,
+      "llm_novelty_ranking_score": 1.0,
+      "llm_feasibility_ranking_score": 0.0
+    },
+    "dataset": "IdeaBench"
+  },
+  {
+    "test_idx": 260,
+    "metrics": {
+      "best_hypothesis_by_bertf1": "The development of a fluorescent biosensor for fructose 1,6-bisphosphate (FBP) provides a powerful tool for measuring glycolytic flux at the single-cell level. Leveraging this, a hypothesis could be that glycolytic activity in neural tissues fluctuates in response to cognitive demands, and that these fluctuations could be non-invasively tracked using modified fMRI techniques that detect metabolic byproducts, thereby linking metabolic dynamics to brain function and dysfunction.",
+      "bert_score": 0.6324102878570557,
+      "llm_rating_score": 6,
+      "llm_novelty_ranking_score": 0.0,
+      "llm_feasibility_ranking_score": 0.0
+    },
+    "dataset": "IdeaBench"
+  },
+  {
+    "test_idx": 356,
+    "metrics": {
+      "best_hypothesis_by_bertf1": "ApoE-ɛ4's influence on mitochondrial function and synaptic integrity in Alzheimer's disease suggests a broader role in neurodegeneration that extends beyond synaptic loss. A novel hypothesis is that ApoE-ɛ4 may impair mitochondrial quality control mechanisms, such as mitophagy, leading to the accumulation of dysfunctional mitochondria and subsequent oxidative stress, which in turn exacerbates synaptic dysfunction and cognitive decline. This hypothesis integrates mitochondrial health and inflammatory responses, proposing that interventions aimed at restoring mitochondrial homeostasis could mitigate the neurodegenerative effects of ApoE-ɛ4.",
+      "bert_score": 0.5358063578605652,
+      "llm_rating_score": 2,
+      "llm_novelty_ranking_score": 1.0,
+      "llm_feasibility_ranking_score": 0.0
+    },
+    "dataset": "IdeaBench"
+  },
+  {
+    "test_idx": 2233,
+    "metrics": {
+      "best_hypothesis_by_bertf1": "The integration of continuous physiological data into predictive models, as exemplified by the THRIVE-c score, highlights the potential of personalized risk assessment in clinical decision-making. Building on this, a novel hypothesis is that real-time continuous glucose monitoring data could be integrated into predictive models for diabetes management, enabling more accurate prediction of hypoglycemic events and personalized insulin dosing recommendations. This approach could enhance patient outcomes by allowing dynamic adjustments to treatment plans based on individual glucose trends and other physiological parameters.",
+      "bert_score": 0.5385640263557434,
+      "llm_rating_score": 3,
+      "llm_novelty_ranking_score": 1.0,
+      "llm_feasibility_ranking_score": 0.0
+    },
+    "dataset": "IdeaBench"
+  },
+  {
+    "test_idx": 1139,
+    "metrics": {
+      "best_hypothesis_by_bertf1": "The variable response to PD-L1 blockade across different cancer types indicates that tumor heterogeneity plays a critical role in therapeutic outcomes. A novel hypothesis could be that the interplay between PD-L1 expression levels and the tumor microenvironment, particularly the presence of specific immune cell subsets and cytokine profiles, determines the efficacy of PD-L1 inhibition, suggesting that personalized immunotherapy strategies based on tumor-specific biomarkers could improve treatment success rates.",
+      "bert_score": 0.5362421274185181,
+      "llm_rating_score": 2,
+      "llm_novelty_ranking_score": 0.6666666666666666,
+      "llm_feasibility_ranking_score": 1.0
+    },
+    "dataset": "IdeaBench"
+  },
+  {
+    "test_idx": 953,
+    "metrics": {
+      "best_hypothesis_by_bertf1": "The detection of PCV-like nucleic acids in multiple tissues from pigs with postweaning multisystemic wasting syndrome, along with the presence of 17-nm viral particles consistent with PCV, suggests a broader role for PCV in disease. To test the hypothesis that a novel PCV variant is responsible for this syndrome, researchers could perform whole-genome sequencing of viral isolates from affected pigs and compare them to known PCV strains. Phylogenetic analysis of these sequences could identify genetic differences that may correlate with altered pathogenicity or host range. Additionally, in vivo challenge studies using these isolates in controlled experimental models could help determine their virulence and tissue tropism.",
+      "bert_score": 0.5874387621879578,
+      "llm_rating_score": 4,
+      "llm_novelty_ranking_score": 1.0,
+      "llm_feasibility_ranking_score": 0.0
+    },
+    "dataset": "IdeaBench"
+  },
+  {
+    "test_idx": 666,
+    "metrics": {
+      "best_hypothesis_by_bertf1": "The microbial composition of floral nectar, as exemplified by the discovery of *Rosenbergiella nectarea*, may influence mosquito behavior and pathogen transmission. Given that mosquitoes feed on nectar and use plants for oviposition, it is hypothesized that nectar-associated bacteria could modulate mosquito feeding preferences or vector competence. To test this, experimental approaches could involve exposing mosquitoes to nectar containing specific bacterial strains and assessing changes in feeding behavior, pathogen acquisition, or survival rates. Additionally, field studies could track mosquito oviposition site selection in relation to plant species harboring distinct microbial communities.",
+      "bert_score": 0.46336522698402405,
+      "llm_rating_score": 8,
+      "llm_novelty_ranking_score": 0.0,
+      "llm_feasibility_ranking_score": 0.0
+    },
+    "dataset": "IdeaBench"
+  },
+  {
+    "test_idx": 1222,
+    "metrics": {
+      "best_hypothesis_by_bertf1": "The structural variations in chalcones derived from N-ethyl-3-acetylindole, as detailed in Abstract 1, suggest that substituent groups significantly influence molecular polarity and reactivity. Given their antiproliferative activity, a novel hypothesis is that these chalcones may modulate redox homeostasis in cancer cells by interacting with key redox-sensitive proteins. This interaction could lead to the disruption of mitochondrial function and the induction of apoptosis. To validate this, one could investigate the effect of these chalcones on mitochondrial membrane potential and reactive oxygen species (ROS) levels in cancer cell lines, alongside assessing their ability to modulate the expression of redox-regulated proteins such as NADPH oxidase or glutathione peroxidase.",
+      "bert_score": 0.600983202457428,
+      "llm_rating_score": 8,
+      "llm_novelty_ranking_score": 1.0,
+      "llm_feasibility_ranking_score": 0.0
+    },
+    "dataset": "IdeaBench"
+  },
+  {
+    "test_idx": 2161,
+    "metrics": {
+      "best_hypothesis_by_bertf1": "The integration of ChEBI's expanded chemical ontology with host-pathogen interaction data offers a powerful platform for identifying chemical modulators of virulence factor activity in H. pylori. By leveraging semantic reasoning tools to analyze the relationships between ChEBI compounds and gene ontology terms related to inflammation and cancer, we can hypothesize that specific small molecules may selectively inhibit the function of H. pylori virulence factors without affecting host cellular processes. This approach could lead to the discovery of novel therapeutics that target bacterial pathogenicity while minimizing host toxicity, offering a more precise strategy for treating H. pylori-associated diseases.",
+      "bert_score": 0.5639991164207458,
+      "llm_rating_score": 4,
+      "llm_novelty_ranking_score": 1.0,
+      "llm_feasibility_ranking_score": 0.0
+    },
+    "dataset": "IdeaBench"
+  },
+  {
+    "test_idx": 1284,
+    "metrics": {
+      "best_hypothesis_by_bertf1": "Cultural narratives around effort and achievement may shape how parental involvement impacts self-regulation and motivation in music students. Drawing from cross-cultural comparisons, a new hypothesis could suggest that in cultures emphasizing collective effort and parental presence during practice, such as in Chinese families, students develop stronger self-regulation skills and intrinsic motivation. This could lead to more consistent practice habits and long-term musical success, even when compared to students from individualistic cultures where autonomy and self-direction are prioritized.",
+      "bert_score": 0.5401159524917603,
+      "llm_rating_score": 6,
+      "llm_novelty_ranking_score": 1.0,
+      "llm_feasibility_ranking_score": 0.6666666666666666
+    },
+    "dataset": "IdeaBench"
+  },
+  {
+    "test_idx": 986,
+    "metrics": {
+      "best_hypothesis_by_bertf1": "Lactobacillus reuteri may influence the gut microbiota's ability to produce D-amino acids, which in turn could modulate the kynurenine pathway. Since D-amino acids have been shown to affect bacterial cell wall dynamics and enzyme activity, it is hypothesized that L. reuteri could enhance or inhibit the production of neuroactive compounds like kynurenic acid through interactions with bacterial enzymes such as AspAT. This interaction might influence neuroinflammation and mood regulation, offering a novel mechanism by which probiotics could alleviate the comorbidity of obesity and depression.",
+      "bert_score": 0.5851565599441528,
+      "llm_rating_score": 7,
+      "llm_novelty_ranking_score": 1.0,
+      "llm_feasibility_ranking_score": 0.0
+    },
+    "dataset": "IdeaBench"
+  },
+  {
+    "test_idx": 284,
+    "metrics": {
+      "best_hypothesis_by_bertf1": "The rapid evolution of PRDM9's zinc fingers and their role in DNA binding and multimerization suggest a dynamic evolutionary mechanism. A novel hypothesis is that the evolutionary turnover of PRDM9's binding motifs drives adaptive changes in recombination landscapes, influencing genetic diversity and speciation. This could be tested by analyzing the correlation between PRDM9 allele variation and recombination patterns across species, providing insights into how chromatin remodeling and DNA-binding specificity shape genomic evolution.",
+      "bert_score": 0.5249410271644592,
+      "llm_rating_score": 7,
+      "llm_novelty_ranking_score": 1.0,
+      "llm_feasibility_ranking_score": 0.0
+    },
+    "dataset": "IdeaBench"
+  },
+  {
+    "test_idx": 1988,
+    "metrics": {
+      "best_hypothesis_by_bertf1": "Combining isoliquiritigenin with mTOR pathway inhibitors may synergistically enhance autophagy and apoptosis in triple-negative breast cancer cells, overcoming resistance mechanisms and improving therapeutic outcomes, which could be validated through in vitro and in vivo studies assessing cell viability, apoptosis markers, and tumor growth inhibition.",
+      "bert_score": 0.5984094738960266,
+      "llm_rating_score": 2,
+      "llm_novelty_ranking_score": 0.6666666666666666,
+      "llm_feasibility_ranking_score": 0.0
+    },
+    "dataset": "IdeaBench"
+  },
+  {
+    "test_idx": 1015,
+    "metrics": {
+      "best_hypothesis_by_bertf1": "Police decision-making, influenced by implicit working rules, may reflect a deeper cognitive framework that integrates environmental, social, and institutional factors. If these rules are not just procedural guidelines but also reflect evolved cognitive heuristics for interpreting ambiguous situations, then training programs should focus on recalibrating these heuristics through context-aware, socially informed interventions. This hypothesis posits that by understanding the neural and cognitive underpinnings of these heuristics, it may be possible to design more equitable and adaptive policing strategies that reduce bias and enhance situational awareness.",
+      "bert_score": 0.6178207993507385,
+      "llm_rating_score": 7,
+      "llm_novelty_ranking_score": 0.6666666666666666,
+      "llm_feasibility_ranking_score": 0.3333333333333333
+    },
+    "dataset": "IdeaBench"
+  },
+  {
+    "test_idx": 1353,
+    "metrics": {
+      "best_hypothesis_by_bertf1": "Controlled alignment of nanofibrils in 3D-printed materials can significantly enhance their mechanical performance and anisotropic behavior. Inspired by the development of aligned bacterial cellulose arrays through substrate-guided growth and mechanical stretching, a hypothesis could be that by combining 3D printing with directional alignment techniques, it is possible to fabricate anisotropic, biodegradable composites with tailored mechanical properties, suitable for both structural biomedical implants and flexible, load-bearing tissue engineering constructs.",
+      "bert_score": 0.5845311880111694,
+      "llm_rating_score": 3,
+      "llm_novelty_ranking_score": 0.0,
+      "llm_feasibility_ranking_score": 0.0
+    },
+    "dataset": "IdeaBench"
+  },
+  {
+    "test_idx": 1732,
+    "metrics": {
+      "best_hypothesis_by_bertf1": "Cognitive biases, such as insufficient reflection on information accuracy, contribute to the rapid spread of misinformation on social media. Building on this, I hypothesize that integrating brief, context-specific prompts that encourage users to pause and evaluate the accuracy of content before sharing could significantly reduce the propagation of false claims. These prompts, designed to activate reflective thinking, may counteract the cognitive shortcuts that lead to the uncritical sharing of unverified information, thereby promoting more responsible information behavior.",
+      "bert_score": 0.5621683597564697,
+      "llm_rating_score": 3,
+      "llm_novelty_ranking_score": 0.6666666666666666,
+      "llm_feasibility_ranking_score": 1.0
+    },
+    "dataset": "IdeaBench"
+  },
+  {
+    "test_idx": 1729,
+    "metrics": {
+      "best_hypothesis_by_bertf1": "The ability of heparin to inhibit polysialyltransferases, as demonstrated in the PSTD domain study, suggests that the structural and electrostatic properties of heparin are crucial for its inhibitory effect. Building on this, I hypothesize that the effectiveness of different heparin derivatives in inhibiting polysialylation is not only dependent on their molecular weight but also on their ability to mimic the binding specificity of natural ligands. To test this, I propose designing heparin-like molecules with tailored structural features and evaluating their inhibitory activity against polysialyltransferases using biochemical assays, such as enzyme kinetics and surface plasmon resonance, to identify the most effective inhibitors for cancer metastasis.",
+      "bert_score": 0.5852920413017273,
+      "llm_rating_score": 3,
+      "llm_novelty_ranking_score": 0.0,
+      "llm_feasibility_ranking_score": 1.0
+    },
+    "dataset": "IdeaBench"
+  },
+  {
+    "test_idx": 413,
+    "metrics": {
+      "best_hypothesis_by_bertf1": "The discovery that Erk1(R84S) and Erk2(R65S) autophosphorylate key motifs like TEY and Thr-207/Thr-188 suggests that post-translational modifications may drive oncogenic ERK activity. A novel hypothesis is that specific phosphorylation patterns of ERK, particularly those involving the TEY motif and Thr-207/Thr-188, could serve as early biomarkers for cancer detection. By developing assays that detect these phosphorylation events, it may be possible to identify cancer at an early stage and tailor therapies that selectively target these modified ERK variants, thereby improving treatment outcomes.",
+      "bert_score": 0.4806685745716095,
+      "llm_rating_score": 4,
+      "llm_novelty_ranking_score": 1.0,
+      "llm_feasibility_ranking_score": 0.3333333333333333
+    },
+    "dataset": "IdeaBench"
+  },
+  {
+    "test_idx": 2266,
+    "metrics": {
+      "best_hypothesis_by_bertf1": "The persistence of downstream signaling dependency in resistant GISTs suggests that multi-targeted approaches may be more effective than single-agent TKIs. A novel hypothesis is that combining TKIs with agents that inhibit downstream pathways, such as MEK or AKT inhibitors, could synergistically block oncogenic signaling and overcome resistance. This could be tested through in vitro synergy assays, followed by in vivo xenograft models to evaluate combination efficacy, and eventually clinical trials to assess the safety and effectiveness of such combinations in patients with imatinib-resistant GISTs.",
+      "bert_score": 0.5634322166442871,
+      "llm_rating_score": 6,
+      "llm_novelty_ranking_score": 1.0,
+      "llm_feasibility_ranking_score": 0.3333333333333333
+    },
+    "dataset": "IdeaBench"
+  },
+  {
+    "test_idx": 1946,
+    "metrics": {
+      "best_hypothesis_by_bertf1": "The integration of hydrophobicity patterns with sequence identity in template selection for GPCR homology modeling could be extended to other membrane proteins, such as ion channels or transporters, where structural homology may also be driven by conserved hydrophobic motifs rather than sequence similarity. This approach could lead to more accurate structural models for drug discovery and functional studies, particularly for proteins with low sequence identity but high structural similarity. To test this hypothesis, experimental validation could involve comparing the accuracy of homology models generated using hydrophobicity-based template selection against those generated using traditional sequence identity-based methods for a diverse set of membrane proteins.",
+      "bert_score": 0.5683169960975647,
+      "llm_rating_score": 7,
+      "llm_novelty_ranking_score": 0.3333333333333333,
+      "llm_feasibility_ranking_score": 0.0
+    },
+    "dataset": "IdeaBench"
+  },
+  {
+    "test_idx": 1105,
+    "metrics": {
+      "best_hypothesis_by_bertf1": "The gut microbiome's influence on immune responses, as seen in both influenza and post-COVID-19 syndrome, suggests a potential link between gut health and respiratory outcomes. To explore this, a longitudinal study could be conducted using a combination of gut microbiome analysis and respiratory function tests in patients recovering from viral respiratory infections. By comparing microbiome profiles with clinical outcomes, researchers could identify specific microbial taxa or metabolites associated with improved recovery or chronic symptoms. Interventions such as fecal microbiota transplantation or targeted probiotic administration could then be tested to assess their impact on respiratory health and immune modulation.",
+      "bert_score": 0.5853899717330933,
+      "llm_rating_score": 8,
+      "llm_novelty_ranking_score": 0.3333333333333333,
+      "llm_feasibility_ranking_score": 0.0
+    },
+    "dataset": "IdeaBench"
+  },
+  {
+    "test_idx": 784,
+    "metrics": {
+      "best_hypothesis_by_bertf1": "The study on RAD51D and its role in genome stability highlights the importance of homologous recombination in preventing genomic instability. Since fallopian tube epithelial stem-like cells (FTESC) are involved in regeneration and may be susceptible to DNA damage, it is plausible that defects in homologous recombination repair pathways, such as RAD51D deficiency, could predispose these cells to malignant transformation. A novel hypothesis is that impaired homologous recombination repair in FTESC contributes to the development of serous carcinomas by increasing genomic instability and promoting oncogenic mutations.",
+      "bert_score": 0.5869194269180298,
+      "llm_rating_score": 8,
+      "llm_novelty_ranking_score": 0.3333333333333333,
+      "llm_feasibility_ranking_score": 0.0
+    },
+    "dataset": "IdeaBench"
+  },
+  {
+    "test_idx": 102,
+    "metrics": {
+      "best_hypothesis_by_bertf1": "The reduced hepatic production of serum amyloid P component (AP) in Alzheimer's disease may reflect a broader systemic metabolic disturbance. Since AP is both a plasma protein and a component of amyloid plaques, its decreased levels could indicate a failure in the body's ability to manage amyloid deposition. A novel hypothesis is that impaired hepatic AP synthesis in AD may be a downstream effect of mitochondrial dysfunction, which could compromise the liver's ability to produce and regulate proteins involved in amyloid clearance, thereby contributing to neurodegenerative processes.",
+      "bert_score": 0.5394212007522583,
+      "llm_rating_score": 3,
+      "llm_novelty_ranking_score": 0.6666666666666666,
+      "llm_feasibility_ranking_score": 0.0
+    },
+    "dataset": "IdeaBench"
+  },
+  {
+    "test_idx": 397,
+    "metrics": {
+      "best_hypothesis_by_bertf1": "The quality of emotional support provided by teachers may act as a critical mediator in the relationship between parental involvement and academic achievement, particularly among students with low self-esteem. This hypothesis builds on the finding that positive teacher-student relationships are linked to better educational outcomes, suggesting that teachers can serve as a pivotal resource in translating parental engagement into academic success by fostering a supportive and encouraging classroom environment.",
+      "bert_score": 0.5590452551841736,
+      "llm_rating_score": 6,
+      "llm_novelty_ranking_score": 1.0,
+      "llm_feasibility_ranking_score": 0.0
+    },
+    "dataset": "IdeaBench"
+  },
+  {
+    "test_idx": 1018,
+    "metrics": {
+      "best_hypothesis_by_bertf1": "HER2-low breast cancer may represent a distinct molecular and immunological entity that interacts with the tumor microenvironment in ways that influence therapeutic response. Given the efficacy of T-DXd in HER2-low metastatic disease, a novel hypothesis could be that HER2-low tumors exhibit unique immune checkpoint dynamics, such as altered PD-L1 expression or T-cell infiltration patterns, which could be exploited through combination therapies involving anti-HER2 agents and immune checkpoint inhibitors. This suggests that the interplay between HER2-low expression and immune signaling may define a new therapeutic target beyond conventional anti-HER2 strategies.",
+      "bert_score": 0.5511499047279358,
+      "llm_rating_score": 3,
+      "llm_novelty_ranking_score": 1.0,
+      "llm_feasibility_ranking_score": 0.0
+    },
+    "dataset": "IdeaBench"
+  },
+  {
+    "test_idx": 1881,
+    "metrics": {
+      "best_hypothesis_by_bertf1": "The unique quadra-partite genome structure of BNRBV, combined with its distinct genomic features such as conserved nucleotide stretches and terminal motifs, suggests that it may have evolved specialized mechanisms for genome replication and regulation. A hypothesis could be that the quadra-partite organization of BNRBV allows for more complex gene expression regulation, potentially enabling the virus to adapt to different host environments or evade host defense mechanisms more effectively than bipartite or tripartite viruses. This could lead to the development of novel strategies for virus detection or control based on the unique genomic architecture of BNRBV and related viruses.",
+      "bert_score": 0.5293972492218018,
+      "llm_rating_score": 3,
+      "llm_novelty_ranking_score": 1.0,
+      "llm_feasibility_ranking_score": 0.0
+    },
+    "dataset": "IdeaBench"
+  },
+  {
+    "test_idx": 128,
+    "metrics": {
+      "best_hypothesis_by_bertf1": "The integration of deep learning and active sensing to mitigate electromagnetic interference in MRI opens new possibilities for improving image quality in non-shielded or partially shielded environments. This could lead to the development of portable, cost-effective MRI systems that are more accessible in remote or resource-limited settings, potentially expanding the reach of diagnostic imaging without compromising data integrity. To test this hypothesis, a controlled experiment could be conducted comparing image quality and signal-to-noise ratios (SNR) between MRI systems with and without the proposed deep learning-based EMI mitigation strategy. The study could involve both simulated and real-world environments, including low-field and high-field MRI scanners, to assess the robustness and generalizability of the method.",
+      "bert_score": 0.5124070644378662,
+      "llm_rating_score": 9,
+      "llm_novelty_ranking_score": 0.0,
+      "llm_feasibility_ranking_score": 0.3333333333333333
+    },
+    "dataset": "IdeaBench"
+  },
+  {
+    "test_idx": 1086,
+    "metrics": {
+      "best_hypothesis_by_bertf1": "The gut microbiota of channel catfish, largemouth bass, and bluegill may vary significantly in composition and function, potentially influencing their susceptibility to pathogens and response to probiotic interventions. A novel hypothesis is that species-specific gut microbiota profiles could be leveraged to design targeted probiotics that enhance disease resistance and growth in aquaculture species. By comparing microbiota dynamics across these fish, we could identify core bacterial taxa that consistently support health and develop probiotics tailored to the unique needs of each species.",
+      "bert_score": 0.5434003472328186,
+      "llm_rating_score": 2,
+      "llm_novelty_ranking_score": 0.3333333333333333,
+      "llm_feasibility_ranking_score": 0.0
+    },
+    "dataset": "IdeaBench"
+  },
+  {
+    "test_idx": 1620,
+    "metrics": {
+      "best_hypothesis_by_bertf1": "The immunomodulatory effects of helminth-derived molecules, such as rAl-CPI, suggest a potential therapeutic strategy for allergic diseases. To test this hypothesis, one could investigate the impact of rAl-CPI on mTORC1 activity in dendritic cells using pharmacological inhibitors or activators of mTORC1. By measuring changes in mTORC1 signaling, metabolic markers, and dendritic cell maturation markers (e.g., HLA-DR, CD83, CD86), researchers could determine whether rAl-CPI modulates mTORC1-dependent metabolic pathways. Additionally, assessing the effect of rAl-CPI on Th2 cytokine production and Treg induction in vivo would provide insights into its role in suppressing allergic inflammation through metabolic reprogramming.",
+      "bert_score": 0.5848425626754761,
+      "llm_rating_score": 6,
+      "llm_novelty_ranking_score": 0.3333333333333333,
+      "llm_feasibility_ranking_score": 0.0
+    },
+    "dataset": "IdeaBench"
+  },
+  {
+    "test_idx": 1815,
+    "metrics": {
+      "best_hypothesis_by_bertf1": "The BBB dysfunction observed in epilepsy, particularly the leakage of serum proteins like albumin into the brain parenchyma, underscores the role of vascular integrity in seizure development. Given the critical role of pericytes in maintaining BBB function and their interactions with glial cells, a novel hypothesis is that pericyte dysfunction during epileptogenesis leads to the formation of a perivascular glial scar, which not only compromises BBB integrity but also creates a pro-inflammatory environment that enhances seizure susceptibility through the activation of glial and neuronal pathways.",
+      "bert_score": 0.5945033431053162,
+      "llm_rating_score": 7,
+      "llm_novelty_ranking_score": 1.0,
+      "llm_feasibility_ranking_score": 0.0
+    },
+    "dataset": "IdeaBench"
+  },
+  {
+    "test_idx": 177,
+    "metrics": {
+      "best_hypothesis_by_bertf1": "Stress-induced tRNA-derived small RNAs (tiRNAs) and other cP-RNAs are generated under oxidative stress and play a role in stress granule formation and translation regulation. Since these RNAs are not effectively captured by conventional RNA-seq methods, it is possible that they are also involved in intercellular communication or immune modulation. A novel hypothesis is that cP-RNAs, particularly those derived from tRNAs and rRNAs, may act as signaling molecules that modulate immune responses during cellular stress, potentially by interacting with specific receptors or influencing RNA-binding proteins in neighboring cells.",
+      "bert_score": 0.5895346999168396,
+      "llm_rating_score": 7,
+      "llm_novelty_ranking_score": 0.6666666666666666,
+      "llm_feasibility_ranking_score": 0.3333333333333333
+    },
+    "dataset": "IdeaBench"
+  },
+  {
+    "test_idx": 674,
+    "metrics": {
+      "best_hypothesis_by_bertf1": "The temporal alignment of nutrient intake with the circadian rhythm may significantly influence the physiological adaptations of strength-power athletes. While current research focuses on immediate post-exercise nutrition, there is limited evidence on how the timing of macronutrient consumption relative to the body's natural metabolic cycles affects recovery, power output, and long-term muscle growth. A novel hypothesis is that synchronizing protein and carbohydrate intake with the athlete's circadian peak in muscle protein synthesis—such as consuming a nutrient-dense meal in the late afternoon—could enhance training adaptations and optimize body composition outcomes compared to traditional post-exercise feeding strategies.",
+      "bert_score": 0.5620259046554565,
+      "llm_rating_score": 2,
+      "llm_novelty_ranking_score": 1.0,
+      "llm_feasibility_ranking_score": 0.0
+    },
+    "dataset": "IdeaBench"
+  },
+  {
+    "test_idx": 1765,
+    "metrics": {
+      "best_hypothesis_by_bertf1": "The role of AtRac1 in ABA-mediated stomatal closure highlights the importance of the actin cytoskeleton in stress responses. To explore the precise mechanisms by which AtRac1 inactivation leads to cytoskeletal reorganization, a novel hypothesis is that AtRac1 interacts with specific actin-binding proteins, such as profilin or cofilin, which are regulated by ABA signaling. This could be tested using co-immunoprecipitation and mass spectrometry to identify interacting partners, followed by in vitro actin polymerization assays and live-cell imaging to assess the impact of these interactions on actin dynamics and stomatal closure.",
+      "bert_score": 0.5657707452774048,
+      "llm_rating_score": 3,
+      "llm_novelty_ranking_score": 1.0,
+      "llm_feasibility_ranking_score": 0.0
+    },
+    "dataset": "IdeaBench"
+  },
+  {
+    "test_idx": 2044,
+    "metrics": {
+      "best_hypothesis_by_bertf1": "The role of neurocognitive flexibility in moderating the impact of weight stigma on psychological resilience suggests a potential pathway for intervention. A novel hypothesis could be that individuals with higher executive function capacity are better able to engage in adaptive coping strategies in response to weight stigma, leading to improved psychological well-being. This hypothesis could be tested using a longitudinal study design where participants complete executive function tasks and self-report measures of weight stigma exposure and psychological outcomes. The study could include a control group and use regression analyses to examine the moderating effect of executive function on the relationship between stigma and well-being.",
+      "bert_score": 0.6025118827819824,
+      "llm_rating_score": 4,
+      "llm_novelty_ranking_score": 1.0,
+      "llm_feasibility_ranking_score": 0.0
+    },
+    "dataset": "IdeaBench"
+  },
+  {
+    "test_idx": 777,
+    "metrics": {
+      "best_hypothesis_by_bertf1": "NLRP3 inflammasome activation in response to inhaled allergens drives inflammation and airway hyperresponsiveness in asthma. Given that DEK is secreted by macrophages and acts as a chemotactic factor, it may be regulated by NLRP3 activation. A novel hypothesis is that NLRP3 inflammasome activation promotes DEK secretion through casein kinase 2 and interleukin-8 signaling, creating a feedback loop that enhances immune cell recruitment and inflammation. This interplay between NLRP3 and DEK could represent a novel mechanism by which innate immune responses are amplified in allergic airway diseases, offering a potential therapeutic target for modulating inflammation in asthma.",
+      "bert_score": 0.5884223580360413,
+      "llm_rating_score": 6,
+      "llm_novelty_ranking_score": 1.0,
+      "llm_feasibility_ranking_score": 0.0
+    },
+    "dataset": "IdeaBench"
+  },
+  {
+    "test_idx": 48,
+    "metrics": {
+      "rating": 0,
+      "accuracy": false
+    },
+    "dataset": "LimitGen-Syn"
+  },
+  {
+    "test_idx": 665,
+    "metrics": {
+      "rating": 1,
+      "accuracy": true
+    },
+    "dataset": "LimitGen-Syn"
+  },
+  {
+    "test_idx": 228,
+    "metrics": {
+      "rating": 3,
+      "accuracy": true
+    },
+    "dataset": "LimitGen-Syn"
+  },
+  {
+    "test_idx": 656,
+    "metrics": {
+      "rating": 3,
+      "accuracy": true
+    },
+    "dataset": "LimitGen-Syn"
+  },
+  {
+    "test_idx": 643,
+    "metrics": {
+      "rating": 3,
+      "accuracy": true
+    },
+    "dataset": "LimitGen-Syn"
+  },
+  {
+    "test_idx": 470,
+    "metrics": {
+      "rating": 0,
+      "accuracy": false
+    },
+    "dataset": "LimitGen-Syn"
+  },
+  {
+    "test_idx": 618,
+    "metrics": {
+      "rating": 0,
+      "accuracy": false
+    },
+    "dataset": "LimitGen-Syn"
+  },
+  {
+    "test_idx": 284,
+    "metrics": {
+      "rating": 0,
+      "accuracy": false
+    },
+    "dataset": "LimitGen-Syn"
+  },
+  {
+    "test_idx": 787,
+    "metrics": {
+      "rating": 3,
+      "accuracy": true
+    },
+    "dataset": "LimitGen-Syn"
+  },
+  {
+    "test_idx": 203,
+    "metrics": {
+      "rating": 1,
+      "accuracy": true
+    },
+    "dataset": "LimitGen-Syn"
+  },
+  {
+    "test_idx": 394,
+    "metrics": {
+      "rating": 3,
+      "accuracy": true
+    },
+    "dataset": "LimitGen-Syn"
+  },
+  {
+    "test_idx": 784,
+    "metrics": {
+      "rating": 0,
+      "accuracy": false
+    },
+    "dataset": "LimitGen-Syn"
+  },
+  {
+    "test_idx": 865,
+    "metrics": {
+      "rating": 1,
+      "accuracy": true
+    },
+    "dataset": "LimitGen-Syn"
+  },
+  {
+    "test_idx": 511,
+    "metrics": {
+      "rating": 0,
+      "accuracy": false
+    },
+    "dataset": "LimitGen-Syn"
+  },
+  {
+    "test_idx": 517,
+    "metrics": {
+      "rating": 0,
+      "accuracy": false
+    },
+    "dataset": "LimitGen-Syn"
+  },
+  {
+    "test_idx": 764,
+    "metrics": {
+      "rating": 3,
+      "accuracy": true
+    },
+    "dataset": "LimitGen-Syn"
+  },
+  {
+    "test_idx": 546,
+    "metrics": {
+      "rating": 0,
+      "accuracy": false
+    },
+    "dataset": "LimitGen-Syn"
+  },
+  {
+    "test_idx": 754,
+    "metrics": {
+      "rating": 0,
+      "accuracy": false
+    },
+    "dataset": "LimitGen-Syn"
+  },
+  {
+    "test_idx": 142,
+    "metrics": {
+      "rating": 0,
+      "accuracy": false
+    },
+    "dataset": "LimitGen-Syn"
+  },
+  {
+    "test_idx": 616,
+    "metrics": {
+      "rating": 2,
+      "accuracy": true
+    },
+    "dataset": "LimitGen-Syn"
+  },
+  {
+    "test_idx": 867,
+    "metrics": {
+      "rating": 0,
+      "accuracy": false
+    },
+    "dataset": "LimitGen-Syn"
+  },
+  {
+    "test_idx": 826,
+    "metrics": {
+      "rating": 0,
+      "accuracy": false
+    },
+    "dataset": "LimitGen-Syn"
+  },
+  {
+    "test_idx": 323,
+    "metrics": {
+      "rating": 0,
+      "accuracy": false
+    },
+    "dataset": "LimitGen-Syn"
+  },
+  {
+    "test_idx": 597,
+    "metrics": {
+      "rating": 0,
+      "accuracy": false
+    },
+    "dataset": "LimitGen-Syn"
+  },
+  {
+    "test_idx": 938,
+    "metrics": {
+      "rating": 3,
+      "accuracy": true
+    },
+    "dataset": "LimitGen-Syn"
+  },
+  {
+    "test_idx": 146,
+    "metrics": {
+      "rating": 3,
+      "accuracy": true
+    },
+    "dataset": "LimitGen-Syn"
+  },
+  {
+    "test_idx": 990,
+    "metrics": {
+      "rating": 3,
+      "accuracy": true
+    },
+    "dataset": "LimitGen-Syn"
+  },
+  {
+    "test_idx": 117,
+    "metrics": {
+      "rating": 3,
+      "accuracy": true
+    },
+    "dataset": "LimitGen-Syn"
+  },
+  {
+    "test_idx": 642,
+    "metrics": {
+      "rating": 1,
+      "accuracy": true
+    },
+    "dataset": "LimitGen-Syn"
+  },
+  {
+    "test_idx": 566,
+    "metrics": {
+      "rating": 0,
+      "accuracy": false
+    },
+    "dataset": "LimitGen-Syn"
+  },
+  {
+    "test_idx": 131,
+    "metrics": {
+      "rating": 0,
+      "accuracy": false
+    },
+    "dataset": "LimitGen-Syn"
+  },
+  {
+    "test_idx": 175,
+    "metrics": {
+      "rating": 3,
+      "accuracy": true
+    },
+    "dataset": "LimitGen-Syn"
+  },
+  {
+    "test_idx": 352,
+    "metrics": {
+      "rating": 3,
+      "accuracy": true
+    },
+    "dataset": "LimitGen-Syn"
+  },
+  {
+    "test_idx": 276,
+    "metrics": {
+      "rating": 0,
+      "accuracy": false
+    },
+    "dataset": "LimitGen-Syn"
+  },
+  {
+    "test_idx": 269,
+    "metrics": {
+      "rating": 0,
+      "accuracy": false
+    },
+    "dataset": "LimitGen-Syn"
+  },
+  {
+    "test_idx": 633,
+    "metrics": {
+      "rating": 3,
+      "accuracy": true
+    },
+    "dataset": "LimitGen-Syn"
+  },
+  {
+    "test_idx": 999,
+    "metrics": {
+      "rating": 3,
+      "accuracy": true
+    },
+    "dataset": "LimitGen-Syn"
+  },
+  {
+    "test_idx": 114,
+    "metrics": {
+      "rating": 3,
+      "accuracy": true
+    },
+    "dataset": "LimitGen-Syn"
+  },
+  {
+    "test_idx": 161,
+    "metrics": {
+      "rating": 3,
+      "accuracy": true
+    },
+    "dataset": "LimitGen-Syn"
+  },
+  {
+    "test_idx": 305,
+    "metrics": {
+      "rating": 0,
+      "accuracy": false
+    },
+    "dataset": "LimitGen-Syn"
+  },
+  {
+    "test_idx": 825,
+    "metrics": {
+      "rating": 3,
+      "accuracy": true
+    },
+    "dataset": "LimitGen-Syn"
+  },
+  {
+    "test_idx": 257,
+    "metrics": {
+      "rating": 0,
+      "accuracy": false
+    },
+    "dataset": "LimitGen-Syn"
+  },
+  {
+    "test_idx": 70,
+    "metrics": {
+      "rating": 4,
+      "accuracy": true
+    },
+    "dataset": "LimitGen-Syn"
+  },
+  {
+    "test_idx": 887,
+    "metrics": {
+      "rating": 0,
+      "accuracy": false
+    },
+    "dataset": "LimitGen-Syn"
+  },
+  {
+    "test_idx": 165,
+    "metrics": {
+      "rating": 3,
+      "accuracy": true
+    },
+    "dataset": "LimitGen-Syn"
+  },
+  {
+    "test_idx": 777,
+    "metrics": {
+      "rating": 4,
+      "accuracy": true
+    },
+    "dataset": "LimitGen-Syn"
+  },
+  {
+    "test_idx": 933,
+    "metrics": {
+      "rating": 3,
+      "accuracy": true
+    },
+    "dataset": "LimitGen-Syn"
+  },
+  {
+    "test_idx": 908,
+    "metrics": {
+      "rating": 0,
+      "accuracy": false
+    },
+    "dataset": "LimitGen-Syn"
+  },
+  {
+    "test_idx": 978,
+    "metrics": {
+      "rating": 3,
+      "accuracy": true
+    },
+    "dataset": "LimitGen-Syn"
+  },
+  {
+    "test_idx": 169,
+    "metrics": {
+      "rating": 3,
+      "accuracy": true
+    },
+    "dataset": "LimitGen-Syn"
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "summary": {
+    "average": 0.4999068081638966,
+    "weighted_average": 0.4999068081638966,
+    "z_score": 0.13491974964576636
+  },
+  "average": {
+    "LexEval-Summarization": 0.2218472987932032,
+    "IdeaBench": 6.62,
+    "LimitGen-Syn": 1.54
+  },
+  "minmax_normalized_average": {
+    "LexEval-Summarization": [
+      18.95824344680669,
+      50,
+      0.3791648689361338
+    ],
+    "IdeaBench": [
+      36.7777777777778,
+      50,
+      0.735555555555556
+    ],
+    "LimitGen-Syn": [
+      19.25,
+      50,
+      0.385
+    ]
+  },
+  "z_normalized_average": {
+    "LexEval-Summarization": [
+      -5.557484600676447,
+      50,
+      -0.11114969201352894
+    ],
+    "IdeaBench": [
+      17.495253693928355,
+      50,
+      0.3499050738785671
+    ],
+    "LimitGen-Syn": [
+      8.300193353613048,
+      50,
+      0.16600386707226097
+    ]
+  }
+}

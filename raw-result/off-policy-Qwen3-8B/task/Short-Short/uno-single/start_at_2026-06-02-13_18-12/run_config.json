@@ -1,0 +1,19 @@
+{
+  "dataset_type": "task",
+  "set_name": "Short-Short",
+  "memory_system": "uno-single",
+  "memory_system_config": {
+    "llm_provider": "offline",
+    "llm_config": {
+      "model": "Qwen/Qwen3-8B",
+      "source": "UNO",
+      "win_rate_threshold": 0.53,
+      "novel_min_score": 0.45
+    }
+  },
+  "memory_cache_prefix": "off-policy/",
+  "output_dir": "/mnt/hdfs/wangchangyue/off-policy-Qwen3-8B/off-policy-Qwen3-8B/task/Short-Short/uno-single/start_at_2026-06-02-13_18-12",
+  "threads": 1,
+  "retrieve_k": 0,
+  "memory_system_config_dir": ""
+}

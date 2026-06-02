@@ -1,0 +1,46 @@
+{
+  "summary": {
+    "average": 0.773098158130549,
+    "weighted_average": 0.770878556309816,
+    "z_score": 0.07155611613952774
+  },
+  "average": {
+    "JuDGE": 7.52,
+    "HelloBench-Academic&Knowledge-QA": 0.8767995570321151,
+    "WritingPrompts": 0.24507761243771686
+  },
+  "minmax_normalized_average": {
+    "JuDGE": [
+      37.6,
+      50,
+      0.752
+    ],
+    "HelloBench-Academic&Knowledge-QA": [
+      35.19298245614035,
+      43,
+      0.8184414524683802
+    ],
+    "WritingPrompts": [
+      37.442651096163345,
+      50,
+      0.7488530219232669
+    ]
+  },
+  "z_normalized_average": {
+    "JuDGE": [
+      3.077901202834421,
+      50,
+      0.06155802405668842
+    ],
+    "HelloBench-Academic&Knowledge-QA": [
+      -14.334348229062623,
+      43,
+      -0.3333569355595959
+    ],
+    "WritingPrompts": [
+      21.48897163418067,
+      50,
+      0.42977943268361335
+    ]
+  }
+}

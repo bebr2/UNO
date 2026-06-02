@@ -1,0 +1,1927 @@
+[
+  {
+    "test_idx": 48,
+    "metrics": {
+      "rougel": 0.0
+    },
+    "dataset": "LexEval-Judge"
+  },
+  {
+    "test_idx": 665,
+    "metrics": {
+      "rougel": 0.3123543078348847
+    },
+    "dataset": "LexEval-Judge"
+  },
+  {
+    "test_idx": 228,
+    "metrics": {
+      "rougel": 0.0
+    },
+    "dataset": "LexEval-Judge"
+  },
+  {
+    "test_idx": 656,
+    "metrics": {
+      "rougel": 0.0
+    },
+    "dataset": "LexEval-Judge"
+  },
+  {
+    "test_idx": 643,
+    "metrics": {
+      "rougel": 0.2515723220440472
+    },
+    "dataset": "LexEval-Judge"
+  },
+  {
+    "test_idx": 470,
+    "metrics": {
+      "rougel": 0.0
+    },
+    "dataset": "LexEval-Judge"
+  },
+  {
+    "test_idx": 618,
+    "metrics": {
+      "rougel": 0.0
+    },
+    "dataset": "LexEval-Judge"
+  },
+  {
+    "test_idx": 284,
+    "metrics": {
+      "rougel": 0.0
+    },
+    "dataset": "LexEval-Judge"
+  },
+  {
+    "test_idx": 787,
+    "metrics": {
+      "rougel": 0.0
+    },
+    "dataset": "LexEval-Judge"
+  },
+  {
+    "test_idx": 203,
+    "metrics": {
+      "rougel": 0.0
+    },
+    "dataset": "LexEval-Judge"
+  },
+  {
+    "test_idx": 394,
+    "metrics": {
+      "rougel": 0.0
+    },
+    "dataset": "LexEval-Judge"
+  },
+  {
+    "test_idx": 784,
+    "metrics": {
+      "rougel": 0.0
+    },
+    "dataset": "LexEval-Judge"
+  },
+  {
+    "test_idx": 865,
+    "metrics": {
+      "rougel": 0.0
+    },
+    "dataset": "LexEval-Judge"
+  },
+  {
+    "test_idx": 511,
+    "metrics": {
+      "rougel": 0.24904214080790074
+    },
+    "dataset": "LexEval-Judge"
+  },
+  {
+    "test_idx": 517,
+    "metrics": {
+      "rougel": 0.0
+    },
+    "dataset": "LexEval-Judge"
+  },
+  {
+    "test_idx": 764,
+    "metrics": {
+      "rougel": 0.0
+    },
+    "dataset": "LexEval-Judge"
+  },
+  {
+    "test_idx": 546,
+    "metrics": {
+      "rougel": 0.22641508935308396
+    },
+    "dataset": "LexEval-Judge"
+  },
+  {
+    "test_idx": 754,
+    "metrics": {
+      "rougel": 0.0
+    },
+    "dataset": "LexEval-Judge"
+  },
+  {
+    "test_idx": 142,
+    "metrics": {
+      "rougel": 0.0
+    },
+    "dataset": "LexEval-Judge"
+  },
+  {
+    "test_idx": 616,
+    "metrics": {
+      "rougel": 0.2326869756803586
+    },
+    "dataset": "LexEval-Judge"
+  },
+  {
+    "test_idx": 867,
+    "metrics": {
+      "rougel": 0.0
+    },
+    "dataset": "LexEval-Judge"
+  },
+  {
+    "test_idx": 826,
+    "metrics": {
+      "rougel": 0.2938596443729802
+    },
+    "dataset": "LexEval-Judge"
+  },
+  {
+    "test_idx": 323,
+    "metrics": {
+      "rougel": 0.2747747702301964
+    },
+    "dataset": "LexEval-Judge"
+  },
+  {
+    "test_idx": 597,
+    "metrics": {
+      "rougel": 0.35294117175737943
+    },
+    "dataset": "LexEval-Judge"
+  },
+  {
+    "test_idx": 938,
+    "metrics": {
+      "rougel": 0.3241895214091953
+    },
+    "dataset": "LexEval-Judge"
+  },
+  {
+    "test_idx": 146,
+    "metrics": {
+      "rougel": 0.0
+    },
+    "dataset": "LexEval-Judge"
+  },
+  {
+    "test_idx": 990,
+    "metrics": {
+      "rougel": 0.24120602532360302
+    },
+    "dataset": "LexEval-Judge"
+  },
+  {
+    "test_idx": 117,
+    "metrics": {
+      "rougel": 0.0
+    },
+    "dataset": "LexEval-Judge"
+  },
+  {
+    "test_idx": 642,
+    "metrics": {
+      "rougel": 0.0
+    },
+    "dataset": "LexEval-Judge"
+  },
+  {
+    "test_idx": 566,
+    "metrics": {
+      "rougel": 0.30901287080504347
+    },
+    "dataset": "LexEval-Judge"
+  },
+  {
+    "test_idx": 131,
+    "metrics": {
+      "rougel": 0.0
+    },
+    "dataset": "LexEval-Judge"
+  },
+  {
+    "test_idx": 175,
+    "metrics": {
+      "rougel": 0.0
+    },
+    "dataset": "LexEval-Judge"
+  },
+  {
+    "test_idx": 352,
+    "metrics": {
+      "rougel": 0.0
+    },
+    "dataset": "LexEval-Judge"
+  },
+  {
+    "test_idx": 276,
+    "metrics": {
+      "rougel": 0.0
+    },
+    "dataset": "LexEval-Judge"
+  },
+  {
+    "test_idx": 269,
+    "metrics": {
+      "rougel": 0.0
+    },
+    "dataset": "LexEval-Judge"
+  },
+  {
+    "test_idx": 633,
+    "metrics": {
+      "rougel": 0.247826082607656
+    },
+    "dataset": "LexEval-Judge"
+  },
+  {
+    "test_idx": 999,
+    "metrics": {
+      "rougel": 0.0
+    },
+    "dataset": "LexEval-Judge"
+  },
+  {
+    "test_idx": 114,
+    "metrics": {
+      "rougel": 0.0
+    },
+    "dataset": "LexEval-Judge"
+  },
+  {
+    "test_idx": 161,
+    "metrics": {
+      "rougel": 0.0
+    },
+    "dataset": "LexEval-Judge"
+  },
+  {
+    "test_idx": 305,
+    "metrics": {
+      "rougel": 0.2836538415293316
+    },
+    "dataset": "LexEval-Judge"
+  },
+  {
+    "test_idx": 825,
+    "metrics": {
+      "rougel": 0.2988047760518088
+    },
+    "dataset": "LexEval-Judge"
+  },
+  {
+    "test_idx": 257,
+    "metrics": {
+      "rougel": 0.2979683922924449
+    },
+    "dataset": "LexEval-Judge"
+  },
+  {
+    "test_idx": 70,
+    "metrics": {
+      "rougel": 0.0
+    },
+    "dataset": "LexEval-Judge"
+  },
+  {
+    "test_idx": 887,
+    "metrics": {
+      "rougel": 0.0
+    },
+    "dataset": "LexEval-Judge"
+  },
+  {
+    "test_idx": 165,
+    "metrics": {
+      "rougel": 0.0
+    },
+    "dataset": "LexEval-Judge"
+  },
+  {
+    "test_idx": 777,
+    "metrics": {
+      "rougel": 0.0
+    },
+    "dataset": "LexEval-Judge"
+  },
+  {
+    "test_idx": 933,
+    "metrics": {
+      "rougel": 0.0
+    },
+    "dataset": "LexEval-Judge"
+  },
+  {
+    "test_idx": 908,
+    "metrics": {
+      "rougel": 0.0
+    },
+    "dataset": "LexEval-Judge"
+  },
+  {
+    "test_idx": 978,
+    "metrics": {
+      "rougel": 0.3064516083727888
+    },
+    "dataset": "LexEval-Judge"
+  },
+  {
+    "test_idx": 169,
+    "metrics": {
+      "rougel": 0.0
+    },
+    "dataset": "LexEval-Judge"
+  },
+  {
+    "test_idx": 163,
+    "metrics": {
+      "score": 7
+    },
+    "dataset": "WritingBench-Politics&Law"
+  },
+  {
+    "test_idx": 28,
+    "metrics": {
+      "score": 7
+    },
+    "dataset": "WritingBench-Politics&Law"
+  },
+  {
+    "test_idx": 6,
+    "metrics": {
+      "score": 7
+    },
+    "dataset": "WritingBench-Politics&Law"
+  },
+  {
+    "test_idx": 189,
+    "metrics": {
+      "score": 4
+    },
+    "dataset": "WritingBench-Politics&Law"
+  },
+  {
+    "test_idx": 70,
+    "metrics": {
+      "score": 4
+    },
+    "dataset": "WritingBench-Politics&Law"
+  },
+  {
+    "test_idx": 62,
+    "metrics": {
+      "score": 2
+    },
+    "dataset": "WritingBench-Politics&Law"
+  },
+  {
+    "test_idx": 57,
+    "metrics": {
+      "score": 6
+    },
+    "dataset": "WritingBench-Politics&Law"
+  },
+  {
+    "test_idx": 35,
+    "metrics": {
+      "score": 8
+    },
+    "dataset": "WritingBench-Politics&Law"
+  },
+  {
+    "test_idx": 188,
+    "metrics": {
+      "score": 6
+    },
+    "dataset": "WritingBench-Politics&Law"
+  },
+  {
+    "test_idx": 26,
+    "metrics": {
+      "score": 7
+    },
+    "dataset": "WritingBench-Politics&Law"
+  },
+  {
+    "test_idx": 173,
+    "metrics": {
+      "score": 5
+    },
+    "dataset": "WritingBench-Politics&Law"
+  },
+  {
+    "test_idx": 197,
+    "metrics": {
+      "score": 8
+    },
+    "dataset": "WritingBench-Politics&Law"
+  },
+  {
+    "test_idx": 139,
+    "metrics": {
+      "score": 8
+    },
+    "dataset": "WritingBench-Politics&Law"
+  },
+  {
+    "test_idx": 22,
+    "metrics": {
+      "score": 7
+    },
+    "dataset": "WritingBench-Politics&Law"
+  },
+  {
+    "test_idx": 151,
+    "metrics": {
+      "score": 8
+    },
+    "dataset": "WritingBench-Politics&Law"
+  },
+  {
+    "test_idx": 108,
+    "metrics": {
+      "score": 8
+    },
+    "dataset": "WritingBench-Politics&Law"
+  },
+  {
+    "test_idx": 8,
+    "metrics": {
+      "score": 8
+    },
+    "dataset": "WritingBench-Politics&Law"
+  },
+  {
+    "test_idx": 7,
+    "metrics": {
+      "score": 8
+    },
+    "dataset": "WritingBench-Politics&Law"
+  },
+  {
+    "test_idx": 23,
+    "metrics": {
+      "score": 7
+    },
+    "dataset": "WritingBench-Politics&Law"
+  },
+  {
+    "test_idx": 55,
+    "metrics": {
+      "score": 7
+    },
+    "dataset": "WritingBench-Politics&Law"
+  },
+  {
+    "test_idx": 59,
+    "metrics": {
+      "score": 9
+    },
+    "dataset": "WritingBench-Politics&Law"
+  },
+  {
+    "test_idx": 129,
+    "metrics": {
+      "score": 8
+    },
+    "dataset": "WritingBench-Politics&Law"
+  },
+  {
+    "test_idx": 154,
+    "metrics": {
+      "score": 8
+    },
+    "dataset": "WritingBench-Politics&Law"
+  },
+  {
+    "test_idx": 198,
+    "metrics": {
+      "score": 6
+    },
+    "dataset": "WritingBench-Politics&Law"
+  },
+  {
+    "test_idx": 143,
+    "metrics": {
+      "score": 8
+    },
+    "dataset": "WritingBench-Politics&Law"
+  },
+  {
+    "test_idx": 50,
+    "metrics": {
+      "score": 8
+    },
+    "dataset": "WritingBench-Politics&Law"
+  },
+  {
+    "test_idx": 166,
+    "metrics": {
+      "score": 9
+    },
+    "dataset": "WritingBench-Politics&Law"
+  },
+  {
+    "test_idx": 192,
+    "metrics": {
+      "score": 8
+    },
+    "dataset": "WritingBench-Politics&Law"
+  },
+  {
+    "test_idx": 107,
+    "metrics": {
+      "score": 3
+    },
+    "dataset": "WritingBench-Politics&Law"
+  },
+  {
+    "test_idx": 56,
+    "metrics": {
+      "score": 6
+    },
+    "dataset": "WritingBench-Politics&Law"
+  },
+  {
+    "test_idx": 114,
+    "metrics": {
+      "score": 6
+    },
+    "dataset": "WritingBench-Politics&Law"
+  },
+  {
+    "test_idx": 150,
+    "metrics": {
+      "score": 8
+    },
+    "dataset": "WritingBench-Politics&Law"
+  },
+  {
+    "test_idx": 71,
+    "metrics": {
+      "score": 8
+    },
+    "dataset": "WritingBench-Politics&Law"
+  },
+  {
+    "test_idx": 1,
+    "metrics": {
+      "score": 7
+    },
+    "dataset": "WritingBench-Politics&Law"
+  },
+  {
+    "test_idx": 40,
+    "metrics": {
+      "score": 8
+    },
+    "dataset": "WritingBench-Politics&Law"
+  },
+  {
+    "test_idx": 185,
+    "metrics": {
+      "score": 7
+    },
+    "dataset": "WritingBench-Politics&Law"
+  },
+  {
+    "test_idx": 87,
+    "metrics": {
+      "score": 8
+    },
+    "dataset": "WritingBench-Politics&Law"
+  },
+  {
+    "test_idx": 168,
+    "metrics": {
+      "score": 6
+    },
+    "dataset": "WritingBench-Politics&Law"
+  },
+  {
+    "test_idx": 39,
+    "metrics": {
+      "score": 8
+    },
+    "dataset": "WritingBench-Politics&Law"
+  },
+  {
+    "test_idx": 181,
+    "metrics": {
+      "score": 7
+    },
+    "dataset": "WritingBench-Politics&Law"
+  },
+  {
+    "test_idx": 86,
+    "metrics": {
+      "score": 8
+    },
+    "dataset": "WritingBench-Politics&Law"
+  },
+  {
+    "test_idx": 74,
+    "metrics": {
+      "avg_score": 0.75
+    },
+    "dataset": "HelloBench-Academic&Knowledge-Writing"
+  },
+  {
+    "test_idx": 41,
+    "metrics": {
+      "avg_score": 0.75
+    },
+    "dataset": "HelloBench-Academic&Knowledge-Writing"
+  },
+  {
+    "test_idx": 35,
+    "metrics": {
+      "avg_score": 0.9
+    },
+    "dataset": "HelloBench-Academic&Knowledge-Writing"
+  },
+  {
+    "test_idx": 51,
+    "metrics": {
+      "avg_score": 0.8
+    },
+    "dataset": "HelloBench-Academic&Knowledge-Writing"
+  },
+  {
+    "test_idx": 49,
+    "metrics": {
+      "avg_score": 0.75
+    },
+    "dataset": "HelloBench-Academic&Knowledge-Writing"
+  },
+  {
+    "test_idx": 48,
+    "metrics": {
+      "avg_score": 0.75
+    },
+    "dataset": "HelloBench-Academic&Knowledge-Writing"
+  },
+  {
+    "test_idx": 42,
+    "metrics": {
+      "avg_score": 0.75
+    },
+    "dataset": "HelloBench-Academic&Knowledge-Writing"
+  },
+  {
+    "test_idx": 40,
+    "metrics": {
+      "avg_score": 0.85
+    },
+    "dataset": "HelloBench-Academic&Knowledge-Writing"
+  },
+  {
+    "test_idx": 68,
+    "metrics": {
+      "avg_score": 0.75
+    },
+    "dataset": "HelloBench-Academic&Knowledge-Writing"
+  },
+  {
+    "test_idx": 39,
+    "metrics": {
+      "avg_score": 0.75
+    },
+    "dataset": "HelloBench-Academic&Knowledge-Writing"
+  },
+  {
+    "test_idx": 3,
+    "metrics": {
+      "avg_score": 0.9416666666666668
+    },
+    "dataset": "HelloBench-Academic&Knowledge-Writing"
+  },
+  {
+    "test_idx": 0,
+    "metrics": {
+      "avg_score": 0.9416666666666668
+    },
+    "dataset": "HelloBench-Academic&Knowledge-Writing"
+  },
+  {
+    "test_idx": 8,
+    "metrics": {
+      "avg_score": 0.9166666666666666
+    },
+    "dataset": "HelloBench-Academic&Knowledge-Writing"
+  },
+  {
+    "test_idx": 7,
+    "metrics": {
+      "avg_score": 0.9416666666666668
+    },
+    "dataset": "HelloBench-Academic&Knowledge-Writing"
+  },
+  {
+    "test_idx": 30,
+    "metrics": {
+      "avg_score": 0.7916666666666666
+    },
+    "dataset": "HelloBench-Academic&Knowledge-Writing"
+  },
+  {
+    "test_idx": 21,
+    "metrics": {
+      "avg_score": 0.9166666666666666
+    },
+    "dataset": "HelloBench-Academic&Knowledge-Writing"
+  },
+  {
+    "test_idx": 20,
+    "metrics": {
+      "avg_score": 0.7083333333333334
+    },
+    "dataset": "HelloBench-Academic&Knowledge-Writing"
+  },
+  {
+    "test_idx": 163,
+    "metrics": {
+      "score": 8
+    },
+    "dataset": "WritingBench-Academic&Engineering"
+  },
+  {
+    "test_idx": 28,
+    "metrics": {
+      "score": 7
+    },
+    "dataset": "WritingBench-Academic&Engineering"
+  },
+  {
+    "test_idx": 6,
+    "metrics": {
+      "score": 3
+    },
+    "dataset": "WritingBench-Academic&Engineering"
+  },
+  {
+    "test_idx": 70,
+    "metrics": {
+      "score": 7
+    },
+    "dataset": "WritingBench-Academic&Engineering"
+  },
+  {
+    "test_idx": 62,
+    "metrics": {
+      "score": 9
+    },
+    "dataset": "WritingBench-Academic&Engineering"
+  },
+  {
+    "test_idx": 57,
+    "metrics": {
+      "score": 8
+    },
+    "dataset": "WritingBench-Academic&Engineering"
+  },
+  {
+    "test_idx": 35,
+    "metrics": {
+      "score": 7
+    },
+    "dataset": "WritingBench-Academic&Engineering"
+  },
+  {
+    "test_idx": 26,
+    "metrics": {
+      "score": 5
+    },
+    "dataset": "WritingBench-Academic&Engineering"
+  },
+  {
+    "test_idx": 139,
+    "metrics": {
+      "score": 5
+    },
+    "dataset": "WritingBench-Academic&Engineering"
+  },
+  {
+    "test_idx": 22,
+    "metrics": {
+      "score": 7
+    },
+    "dataset": "WritingBench-Academic&Engineering"
+  },
+  {
+    "test_idx": 151,
+    "metrics": {
+      "score": 9
+    },
+    "dataset": "WritingBench-Academic&Engineering"
+  },
+  {
+    "test_idx": 108,
+    "metrics": {
+      "score": 7
+    },
+    "dataset": "WritingBench-Academic&Engineering"
+  },
+  {
+    "test_idx": 8,
+    "metrics": {
+      "score": 8
+    },
+    "dataset": "WritingBench-Academic&Engineering"
+  },
+  {
+    "test_idx": 7,
+    "metrics": {
+      "score": 9
+    },
+    "dataset": "WritingBench-Academic&Engineering"
+  },
+  {
+    "test_idx": 23,
+    "metrics": {
+      "score": 6
+    },
+    "dataset": "WritingBench-Academic&Engineering"
+  },
+  {
+    "test_idx": 55,
+    "metrics": {
+      "score": 7
+    },
+    "dataset": "WritingBench-Academic&Engineering"
+  },
+  {
+    "test_idx": 59,
+    "metrics": {
+      "score": 7
+    },
+    "dataset": "WritingBench-Academic&Engineering"
+  },
+  {
+    "test_idx": 129,
+    "metrics": {
+      "score": 9
+    },
+    "dataset": "WritingBench-Academic&Engineering"
+  },
+  {
+    "test_idx": 164,
+    "metrics": {
+      "score": 7
+    },
+    "dataset": "WritingBench-Academic&Engineering"
+  },
+  {
+    "test_idx": 143,
+    "metrics": {
+      "score": 9
+    },
+    "dataset": "WritingBench-Academic&Engineering"
+  },
+  {
+    "test_idx": 50,
+    "metrics": {
+      "score": 8
+    },
+    "dataset": "WritingBench-Academic&Engineering"
+  },
+  {
+    "test_idx": 158,
+    "metrics": {
+      "score": 7
+    },
+    "dataset": "WritingBench-Academic&Engineering"
+  },
+  {
+    "test_idx": 107,
+    "metrics": {
+      "score": 7
+    },
+    "dataset": "WritingBench-Academic&Engineering"
+  },
+  {
+    "test_idx": 56,
+    "metrics": {
+      "score": 8
+    },
+    "dataset": "WritingBench-Academic&Engineering"
+  },
+  {
+    "test_idx": 114,
+    "metrics": {
+      "score": 6
+    },
+    "dataset": "WritingBench-Academic&Engineering"
+  },
+  {
+    "test_idx": 71,
+    "metrics": {
+      "score": 8
+    },
+    "dataset": "WritingBench-Academic&Engineering"
+  },
+  {
+    "test_idx": 1,
+    "metrics": {
+      "score": 8
+    },
+    "dataset": "WritingBench-Academic&Engineering"
+  },
+  {
+    "test_idx": 40,
+    "metrics": {
+      "score": 7
+    },
+    "dataset": "WritingBench-Academic&Engineering"
+  },
+  {
+    "test_idx": 155,
+    "metrics": {
+      "score": 7
+    },
+    "dataset": "WritingBench-Academic&Engineering"
+  },
+  {
+    "test_idx": 87,
+    "metrics": {
+      "score": 6
+    },
+    "dataset": "WritingBench-Academic&Engineering"
+  },
+  {
+    "test_idx": 141,
+    "metrics": {
+      "score": 8
+    },
+    "dataset": "WritingBench-Academic&Engineering"
+  },
+  {
+    "test_idx": 39,
+    "metrics": {
+      "score": 4
+    },
+    "dataset": "WritingBench-Academic&Engineering"
+  },
+  {
+    "test_idx": 156,
+    "metrics": {
+      "score": 8
+    },
+    "dataset": "WritingBench-Academic&Engineering"
+  },
+  {
+    "test_idx": 86,
+    "metrics": {
+      "score": 6
+    },
+    "dataset": "WritingBench-Academic&Engineering"
+  },
+  {
+    "test_idx": 90,
+    "metrics": {
+      "avg_score": 0.85
+    },
+    "dataset": "HelloBench-Creative&Design"
+  },
+  {
+    "test_idx": 79,
+    "metrics": {
+      "avg_score": 0.7
+    },
+    "dataset": "HelloBench-Creative&Design"
+  },
+  {
+    "test_idx": 111,
+    "metrics": {
+      "avg_score": 0.75
+    },
+    "dataset": "HelloBench-Creative&Design"
+  },
+  {
+    "test_idx": 107,
+    "metrics": {
+      "avg_score": 0.75
+    },
+    "dataset": "HelloBench-Creative&Design"
+  },
+  {
+    "test_idx": 104,
+    "metrics": {
+      "avg_score": 0.3
+    },
+    "dataset": "HelloBench-Creative&Design"
+  },
+  {
+    "test_idx": 93,
+    "metrics": {
+      "avg_score": 0.75
+    },
+    "dataset": "HelloBench-Creative&Design"
+  },
+  {
+    "test_idx": 89,
+    "metrics": {
+      "avg_score": 0.95
+    },
+    "dataset": "HelloBench-Creative&Design"
+  },
+  {
+    "test_idx": 87,
+    "metrics": {
+      "avg_score": 1.0
+    },
+    "dataset": "HelloBench-Creative&Design"
+  },
+  {
+    "test_idx": 130,
+    "metrics": {
+      "avg_score": 0.75
+    },
+    "dataset": "HelloBench-Creative&Design"
+  },
+  {
+    "test_idx": 80,
+    "metrics": {
+      "avg_score": 0.8
+    },
+    "dataset": "HelloBench-Creative&Design"
+  },
+  {
+    "test_idx": 149,
+    "metrics": {
+      "avg_score": 1.0
+    },
+    "dataset": "HelloBench-Creative&Design"
+  },
+  {
+    "test_idx": 143,
+    "metrics": {
+      "avg_score": 1.0
+    },
+    "dataset": "HelloBench-Creative&Design"
+  },
+  {
+    "test_idx": 144,
+    "metrics": {
+      "avg_score": 1.0
+    },
+    "dataset": "HelloBench-Creative&Design"
+  },
+  {
+    "test_idx": 150,
+    "metrics": {
+      "avg_score": 0.75
+    },
+    "dataset": "HelloBench-Creative&Design"
+  },
+  {
+    "test_idx": 108,
+    "metrics": {
+      "avg_score": 0.75
+    },
+    "dataset": "HelloBench-Creative&Design"
+  },
+  {
+    "test_idx": 165,
+    "metrics": {
+      "avg_score": 0.85
+    },
+    "dataset": "HelloBench-Creative&Design"
+  },
+  {
+    "test_idx": 154,
+    "metrics": {
+      "avg_score": 1.0
+    },
+    "dataset": "HelloBench-Creative&Design"
+  },
+  {
+    "test_idx": 186,
+    "metrics": {
+      "avg_score": 0.75
+    },
+    "dataset": "HelloBench-Creative&Design"
+  },
+  {
+    "test_idx": 182,
+    "metrics": {
+      "avg_score": 0.85
+    },
+    "dataset": "HelloBench-Creative&Design"
+  },
+  {
+    "test_idx": 179,
+    "metrics": {
+      "avg_score": 0.65
+    },
+    "dataset": "HelloBench-Creative&Design"
+  },
+  {
+    "test_idx": 168,
+    "metrics": {
+      "avg_score": 0.7
+    },
+    "dataset": "HelloBench-Creative&Design"
+  },
+  {
+    "test_idx": 164,
+    "metrics": {
+      "avg_score": 0.65
+    },
+    "dataset": "HelloBench-Creative&Design"
+  },
+  {
+    "test_idx": 220,
+    "metrics": {
+      "avg_score": 0.7
+    },
+    "dataset": "HelloBench-Creative&Design"
+  },
+  {
+    "test_idx": 162,
+    "metrics": {
+      "avg_score": 0.65
+    },
+    "dataset": "HelloBench-Creative&Design"
+  },
+  {
+    "test_idx": 205,
+    "metrics": {
+      "avg_score": 0.7
+    },
+    "dataset": "HelloBench-Creative&Design"
+  },
+  {
+    "test_idx": 155,
+    "metrics": {
+      "avg_score": 1.0
+    },
+    "dataset": "HelloBench-Creative&Design"
+  },
+  {
+    "test_idx": 226,
+    "metrics": {
+      "avg_score": 0.8
+    },
+    "dataset": "HelloBench-Creative&Design"
+  },
+  {
+    "test_idx": 219,
+    "metrics": {
+      "avg_score": 0.75
+    },
+    "dataset": "HelloBench-Creative&Design"
+  },
+  {
+    "test_idx": 178,
+    "metrics": {
+      "avg_score": 0.65
+    },
+    "dataset": "HelloBench-Creative&Design"
+  },
+  {
+    "test_idx": 227,
+    "metrics": {
+      "avg_score": 0.75
+    },
+    "dataset": "HelloBench-Creative&Design"
+  },
+  {
+    "test_idx": 183,
+    "metrics": {
+      "avg_score": 0.75
+    },
+    "dataset": "HelloBench-Creative&Design"
+  },
+  {
+    "test_idx": 14,
+    "metrics": {
+      "avg_score": 0.625
+    },
+    "dataset": "HelloBench-Creative&Design"
+  },
+  {
+    "test_idx": 3,
+    "metrics": {
+      "avg_score": 0.875
+    },
+    "dataset": "HelloBench-Creative&Design"
+  },
+  {
+    "test_idx": 35,
+    "metrics": {
+      "avg_score": 1.0
+    },
+    "dataset": "HelloBench-Creative&Design"
+  },
+  {
+    "test_idx": 31,
+    "metrics": {
+      "avg_score": 1.0
+    },
+    "dataset": "HelloBench-Creative&Design"
+  },
+  {
+    "test_idx": 28,
+    "metrics": {
+      "avg_score": 1.0
+    },
+    "dataset": "HelloBench-Creative&Design"
+  },
+  {
+    "test_idx": 17,
+    "metrics": {
+      "avg_score": 0.8333333333333334
+    },
+    "dataset": "HelloBench-Creative&Design"
+  },
+  {
+    "test_idx": 13,
+    "metrics": {
+      "avg_score": 1.0
+    },
+    "dataset": "HelloBench-Creative&Design"
+  },
+  {
+    "test_idx": 11,
+    "metrics": {
+      "avg_score": 1.0
+    },
+    "dataset": "HelloBench-Creative&Design"
+  },
+  {
+    "test_idx": 54,
+    "metrics": {
+      "avg_score": 0.9166666666666666
+    },
+    "dataset": "HelloBench-Creative&Design"
+  },
+  {
+    "test_idx": 4,
+    "metrics": {
+      "avg_score": 0.7916666666666666
+    },
+    "dataset": "HelloBench-Creative&Design"
+  },
+  {
+    "test_idx": 74,
+    "metrics": {
+      "avg_score": 1.0
+    },
+    "dataset": "HelloBench-Creative&Design"
+  },
+  {
+    "test_idx": 68,
+    "metrics": {
+      "avg_score": 1.0
+    },
+    "dataset": "HelloBench-Creative&Design"
+  },
+  {
+    "test_idx": 27,
+    "metrics": {
+      "avg_score": 1.0
+    },
+    "dataset": "HelloBench-Creative&Design"
+  },
+  {
+    "test_idx": 75,
+    "metrics": {
+      "avg_score": 0.4166666666666667
+    },
+    "dataset": "HelloBench-Creative&Design"
+  },
+  {
+    "test_idx": 32,
+    "metrics": {
+      "avg_score": 1.0
+    },
+    "dataset": "HelloBench-Creative&Design"
+  },
+  {
+    "test_idx": 38,
+    "metrics": {
+      "avg_score": 1.0
+    },
+    "dataset": "HelloBench-Creative&Design"
+  },
+  {
+    "test_idx": 309,
+    "metrics": {
+      "score": 8
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 56,
+    "metrics": {
+      "score": 9
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 45,
+    "metrics": {
+      "score": 5
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 341,
+    "metrics": {
+      "score": 7
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 130,
+    "metrics": {
+      "score": 8
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 126,
+    "metrics": {
+      "score": 8
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 123,
+    "metrics": {
+      "score": 6
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 59,
+    "metrics": {
+      "score": 5
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 396,
+    "metrics": {
+      "score": 7
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 55,
+    "metrics": {
+      "score": 7
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 314,
+    "metrics": {
+      "score": 7
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 371,
+    "metrics": {
+      "score": 8
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 267,
+    "metrics": {
+      "score": 6
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 53,
+    "metrics": {
+      "score": 8
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 289,
+    "metrics": {
+      "score": 8
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 219,
+    "metrics": {
+      "score": 6
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 46,
+    "metrics": {
+      "score": 8
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 415,
+    "metrics": {
+      "score": 4
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 366,
+    "metrics": {
+      "score": 8
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 122,
+    "metrics": {
+      "score": 9
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 124,
+    "metrics": {
+      "score": 6
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 246,
+    "metrics": {
+      "score": 9
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 291,
+    "metrics": {
+      "score": 7
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 382,
+    "metrics": {
+      "score": 6
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 28,
+    "metrics": {
+      "score": 6
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 6,
+    "metrics": {
+      "score": 6
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 111,
+    "metrics": {
+      "score": 7
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 103,
+    "metrics": {
+      "score": 8
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 98,
+    "metrics": {
+      "score": 3
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 35,
+    "metrics": {
+      "score": 7
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 26,
+    "metrics": {
+      "score": 7
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 405,
+    "metrics": {
+      "score": 3
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 329,
+    "metrics": {
+      "score": 7
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 22,
+    "metrics": {
+      "score": 4
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 355,
+    "metrics": {
+      "score": 8
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 265,
+    "metrics": {
+      "score": 6
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 8,
+    "metrics": {
+      "score": 8
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 7,
+    "metrics": {
+      "score": 4
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 23,
+    "metrics": {
+      "score": 6
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 96,
+    "metrics": {
+      "score": 7
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 100,
+    "metrics": {
+      "score": 4
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 307,
+    "metrics": {
+      "score": 4
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 358,
+    "metrics": {
+      "score": 8
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 412,
+    "metrics": {
+      "score": 7
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 333,
+    "metrics": {
+      "score": 8
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 91,
+    "metrics": {
+      "score": 6
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 406,
+    "metrics": {
+      "score": 6
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 264,
+    "metrics": {
+      "score": 7
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 97,
+    "metrics": {
+      "score": 9
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 281,
+    "metrics": {
+      "score": 6
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 354,
+    "metrics": {
+      "score": 5
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 112,
+    "metrics": {
+      "score": 4
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 1,
+    "metrics": {
+      "score": 8
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 40,
+    "metrics": {
+      "score": 7
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 389,
+    "metrics": {
+      "score": 7
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 216,
+    "metrics": {
+      "score": 5
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 414,
+    "metrics": {
+      "score": 7
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 39,
+    "metrics": {
+      "score": 8
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 385,
+    "metrics": {
+      "score": 6
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 215,
+    "metrics": {
+      "score": 8
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 158,
+    "metrics": {
+      "score": 8
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 68,
+    "metrics": {
+      "score": 8
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 295,
+    "metrics": {
+      "score": 7
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 165,
+    "metrics": {
+      "score": 4
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 161,
+    "metrics": {
+      "score": 8
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 421,
+    "metrics": {
+      "score": 4
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 82,
+    "metrics": {
+      "score": 6
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 419,
+    "metrics": {
+      "score": 7
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 78,
+    "metrics": {
+      "score": 7
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 255,
+    "metrics": {
+      "score": 9
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 401,
+    "metrics": {
+      "score": 5
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 377,
+    "metrics": {
+      "score": 7
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 199,
+    "metrics": {
+      "score": 6
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 76,
+    "metrics": {
+      "score": 8
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 205,
+    "metrics": {
+      "score": 8
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 184,
+    "metrics": {
+      "score": 6
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 69,
+    "metrics": {
+      "score": 7
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 420,
+    "metrics": {
+      "score": 8
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 397,
+    "metrics": {
+      "score": 8
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 157,
+    "metrics": {
+      "score": 7
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 159,
+    "metrics": {
+      "score": 4
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 194,
+    "metrics": {
+      "score": 8
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 228,
+    "metrics": {
+      "score": 5
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 373,
+    "metrics": {
+      "score": 8
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 201,
+    "metrics": {
+      "score": 5
+    },
+    "dataset": "WritingBench-Creative&Design"
+  },
+  {
+    "test_idx": 155,
+    "metrics": {
+      "score": 7
+    },
+    "dataset": "WritingBench-Creative&Design"
+  }
+]

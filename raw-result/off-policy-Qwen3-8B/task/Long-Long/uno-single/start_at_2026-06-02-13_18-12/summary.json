@@ -1,0 +1,79 @@
+{
+  "summary": {
+    "average": 0.6287188774630262,
+    "weighted_average": 0.637669827537431,
+    "z_score": 0.1565855796803889
+  },
+  "average": {
+    "LexEval-Judge": 0.09005519080945407,
+    "WritingBench-Politics&Law": 6.975609756097561,
+    "HelloBench-Academic&Knowledge-Writing": 0.821078431372549,
+    "WritingBench-Academic&Engineering": 7.117647058823529,
+    "HelloBench-Creative&Design": 0.8246453900709216,
+    "WritingBench-Creative&Design": 6.651162790697675
+  },
+  "minmax_normalized_average": {
+    "LexEval-Judge": [
+      10.336980350571315,
+      50,
+      0.2067396070114263
+    ],
+    "WritingBench-Politics&Law": [
+      30.625,
+      41,
+      0.7469512195121951
+    ],
+    "HelloBench-Academic&Knowledge-Writing": [
+      8.88888888888889,
+      17,
+      0.5228758169934641
+    ],
+    "WritingBench-Academic&Engineering": [
+      26.0,
+      34,
+      0.7647058823529411
+    ],
+    "HelloBench-Creative&Design": [
+      38.75833333333332,
+      47,
+      0.8246453900709216
+    ],
+    "WritingBench-Creative&Design": [
+      60.75,
+      86,
+      0.7063953488372093
+    ]
+  },
+  "z_normalized_average": {
+    "LexEval-Judge": [
+      7.982166287880449,
+      50,
+      0.15964332575760898
+    ],
+    "WritingBench-Politics&Law": [
+      8.612510290753837,
+      41,
+      0.21006122660375212
+    ],
+    "HelloBench-Academic&Knowledge-Writing": [
+      -3.5703866747902993,
+      17,
+      -0.21002274557589995
+    ],
+    "WritingBench-Academic&Engineering": [
+      8.664059503895531,
+      34,
+      0.25482527952633915
+    ],
+    "HelloBench-Creative&Design": [
+      8.841938823451535,
+      47,
+      0.18812635794577734
+    ],
+    "WritingBench-Creative&Design": [
+      12.53074618091589,
+      86,
+      0.14570635094088244
+    ]
+  }
+}

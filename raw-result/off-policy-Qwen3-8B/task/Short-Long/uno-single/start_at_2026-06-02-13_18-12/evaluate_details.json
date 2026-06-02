@@ -1,0 +1,1453 @@
+[
+  {
+    "test_idx": 676,
+    "metrics": {
+      "reasoning_bert_score": 0.8245987892150879,
+      "judge_bert_score": 0.8458026647567749,
+      "reasoning_meteor": 0.6836868080565559,
+      "judge_meteor": 0.511119081779053,
+      "crime_recall": 1.0,
+      "crime_precision": 1.0,
+      "time_score": 0.5,
+      "amount_score": 0.33333333333333337,
+      "penalcode_index_recall": 1.0,
+      "penalcode_index_precision": 1.0
+    },
+    "dataset": "JuDGE"
+  },
+  {
+    "test_idx": 653,
+    "metrics": {
+      "reasoning_bert_score": 0.6162852048873901,
+      "judge_bert_score": 0.6816016435623169,
+      "reasoning_meteor": 0.11952638516431072,
+      "judge_meteor": 0.17439218359463757,
+      "crime_recall": 1.0,
+      "crime_precision": 0.5,
+      "time_score": 0.2692307692307693,
+      "amount_score": null,
+      "penalcode_index_recall": 1.0,
+      "penalcode_index_precision": 0.5
+    },
+    "dataset": "JuDGE"
+  },
+  {
+    "test_idx": 419,
+    "metrics": {
+      "reasoning_bert_score": 0.7385228872299194,
+      "judge_bert_score": 0.8340895175933838,
+      "reasoning_meteor": 0.23328768968303848,
+      "judge_meteor": 0.48101250987062333,
+      "crime_recall": 1.0,
+      "crime_precision": 1.0,
+      "time_score": 0.6666666666666667,
+      "amount_score": 0.0,
+      "penalcode_index_recall": 0.375,
+      "penalcode_index_precision": 1.0
+    },
+    "dataset": "JuDGE"
+  },
+  {
+    "test_idx": 241,
+    "metrics": {
+      "reasoning_bert_score": 0.8266772031784058,
+      "judge_bert_score": 0.7428268194198608,
+      "reasoning_meteor": 0.4043677240894225,
+      "judge_meteor": 0.22572815533980584,
+      "crime_recall": 1.0,
+      "crime_precision": 1.0,
+      "time_score": 0.6,
+      "amount_score": 0.9230769230769231,
+      "penalcode_index_recall": 0.8333333333333334,
+      "penalcode_index_precision": 0.7142857142857143
+    },
+    "dataset": "JuDGE"
+  },
+  {
+    "test_idx": 700,
+    "metrics": {
+      "reasoning_bert_score": 0.8704749345779419,
+      "judge_bert_score": 0.7488554120063782,
+      "reasoning_meteor": 0.6591303131991051,
+      "judge_meteor": 0.25189167662285944,
+      "crime_recall": 1.0,
+      "crime_precision": 1.0,
+      "time_score": 0.75,
+      "amount_score": 1.0,
+      "penalcode_index_recall": 1.0,
+      "penalcode_index_precision": 1.0
+    },
+    "dataset": "JuDGE"
+  },
+  {
+    "test_idx": 1494,
+    "metrics": {
+      "reasoning_bert_score": 0.8589857816696167,
+      "judge_bert_score": 0.7710624933242798,
+      "reasoning_meteor": 0.7257415587612023,
+      "judge_meteor": 0.30878965089491417,
+      "crime_recall": 1.0,
+      "crime_precision": 1.0,
+      "time_score": 1.0,
+      "amount_score": 1.0,
+      "penalcode_index_recall": 1.0,
+      "penalcode_index_precision": 0.6
+    },
+    "dataset": "JuDGE"
+  },
+  {
+    "test_idx": 1185,
+    "metrics": {
+      "reasoning_bert_score": 0.8299601674079895,
+      "judge_bert_score": 0.9115722179412842,
+      "reasoning_meteor": 0.7555283022972502,
+      "judge_meteor": 0.7772020725388602,
+      "crime_recall": 1.0,
+      "crime_precision": 1.0,
+      "time_score": 1.0,
+      "amount_score": 0.0,
+      "penalcode_index_recall": 1.0,
+      "penalcode_index_precision": 1.0
+    },
+    "dataset": "JuDGE"
+  },
+  {
+    "test_idx": 418,
+    "metrics": {
+      "reasoning_bert_score": 0.839419424533844,
+      "judge_bert_score": 0.90852290391922,
+      "reasoning_meteor": 0.5209673905242123,
+      "judge_meteor": 0.7593520961594841,
+      "crime_recall": 1.0,
+      "crime_precision": 1.0,
+      "time_score": 0.5833333333333333,
+      "amount_score": 0.6,
+      "penalcode_index_recall": 0.6666666666666666,
+      "penalcode_index_precision": 0.4
+    },
+    "dataset": "JuDGE"
+  },
+  {
+    "test_idx": 290,
+    "metrics": {
+      "reasoning_bert_score": 0.7833635807037354,
+      "judge_bert_score": 0.8186386823654175,
+      "reasoning_meteor": 0.41691503014993475,
+      "judge_meteor": 0.42338636059348345,
+      "crime_recall": 1.0,
+      "crime_precision": 1.0,
+      "time_score": 1.0,
+      "amount_score": 0.5,
+      "penalcode_index_recall": 0.6666666666666666,
+      "penalcode_index_precision": 0.8
+    },
+    "dataset": "JuDGE"
+  },
+  {
+    "test_idx": 1139,
+    "metrics": {
+      "reasoning_bert_score": 0.8073786497116089,
+      "judge_bert_score": 0.836394190788269,
+      "reasoning_meteor": 0.5557815486000144,
+      "judge_meteor": 0.646551724137931,
+      "crime_recall": 1.0,
+      "crime_precision": 1.0,
+      "time_score": 1.0,
+      "amount_score": 0.0,
+      "penalcode_index_recall": 0.5,
+      "penalcode_index_precision": 0.5
+    },
+    "dataset": "JuDGE"
+  },
+  {
+    "test_idx": 1529,
+    "metrics": {
+      "reasoning_bert_score": 0.823225736618042,
+      "judge_bert_score": 0.8194558024406433,
+      "reasoning_meteor": 0.4928305285799366,
+      "judge_meteor": 0.3406656780359203,
+      "crime_recall": 1.0,
+      "crime_precision": 1.0,
+      "time_score": 0.6666666666666667,
+      "amount_score": null,
+      "penalcode_index_recall": 0.6666666666666666,
+      "penalcode_index_precision": 0.5
+    },
+    "dataset": "JuDGE"
+  },
+  {
+    "test_idx": 1599,
+    "metrics": {
+      "reasoning_bert_score": 0.8851675391197205,
+      "judge_bert_score": 0.7927654385566711,
+      "reasoning_meteor": 0.7808626536033025,
+      "judge_meteor": 0.38659793814432986,
+      "crime_recall": 1.0,
+      "crime_precision": 1.0,
+      "time_score": 0.9375,
+      "amount_score": null,
+      "penalcode_index_recall": 1.0,
+      "penalcode_index_precision": 1.0
+    },
+    "dataset": "JuDGE"
+  },
+  {
+    "test_idx": 1815,
+    "metrics": {
+      "reasoning_bert_score": 0.742601752281189,
+      "judge_bert_score": 0.6855987310409546,
+      "reasoning_meteor": 0.2326986107397836,
+      "judge_meteor": 0.2121021895033194,
+      "crime_recall": 1.0,
+      "crime_precision": 1.0,
+      "time_score": 0.8,
+      "amount_score": 1.0,
+      "penalcode_index_recall": 0.0,
+      "penalcode_index_precision": 0
+    },
+    "dataset": "JuDGE"
+  },
+  {
+    "test_idx": 2494,
+    "metrics": {
+      "reasoning_bert_score": 0.8482956886291504,
+      "judge_bert_score": 0.7966999411582947,
+      "reasoning_meteor": 0.6674515594219029,
+      "judge_meteor": 0.3542839199694725,
+      "crime_recall": 1.0,
+      "crime_precision": 1.0,
+      "time_score": 0.9642857142857143,
+      "amount_score": 0.45999999999999996,
+      "penalcode_index_recall": 0.2857142857142857,
+      "penalcode_index_precision": 0.3333333333333333
+    },
+    "dataset": "JuDGE"
+  },
+  {
+    "test_idx": 1718,
+    "metrics": {
+      "reasoning_bert_score": 0.7880173325538635,
+      "judge_bert_score": 0.809005081653595,
+      "reasoning_meteor": 0.35603729498929576,
+      "judge_meteor": 0.5459240402621722,
+      "crime_recall": 1.0,
+      "crime_precision": 1.0,
+      "time_score": 1.0,
+      "amount_score": 1.0,
+      "penalcode_index_recall": 1.0,
+      "penalcode_index_precision": 0.42857142857142855
+    },
+    "dataset": "JuDGE"
+  },
+  {
+    "test_idx": 1259,
+    "metrics": {
+      "reasoning_bert_score": 0.7953875064849854,
+      "judge_bert_score": 0.7800905108451843,
+      "reasoning_meteor": 0.42500770119368503,
+      "judge_meteor": 0.3327554613394654,
+      "crime_recall": 1.0,
+      "crime_precision": 0.5,
+      "time_score": 0.30000000000000004,
+      "amount_score": 0.09999999999999998,
+      "penalcode_index_recall": 0.5,
+      "penalcode_index_precision": 0.2857142857142857
+    },
+    "dataset": "JuDGE"
+  },
+  {
+    "test_idx": 2021,
+    "metrics": {
+      "reasoning_bert_score": 0.8074591755867004,
+      "judge_bert_score": 0.8171604871749878,
+      "reasoning_meteor": 0.5285601071279655,
+      "judge_meteor": 0.3562075784298006,
+      "crime_recall": 1.0,
+      "crime_precision": 1.0,
+      "time_score": 0.8571428571428572,
+      "amount_score": null,
+      "penalcode_index_recall": 1.0,
+      "penalcode_index_precision": 0.25
+    },
+    "dataset": "JuDGE"
+  },
+  {
+    "test_idx": 356,
+    "metrics": {
+      "reasoning_bert_score": 0.8204421997070312,
+      "judge_bert_score": 0.7702926993370056,
+      "reasoning_meteor": 0.47839506172839513,
+      "judge_meteor": 0.3084055856431647,
+      "crime_recall": 1.0,
+      "crime_precision": 1.0,
+      "time_score": 0.8333333333333334,
+      "amount_score": 0.5,
+      "penalcode_index_recall": 0.6,
+      "penalcode_index_precision": 1.0
+    },
+    "dataset": "JuDGE"
+  },
+  {
+    "test_idx": 2233,
+    "metrics": {
+      "reasoning_bert_score": 0.8005130290985107,
+      "judge_bert_score": 0.8173024654388428,
+      "reasoning_meteor": 0.3010409692159366,
+      "judge_meteor": 0.44530548279028337,
+      "crime_recall": 1.0,
+      "crime_precision": 1.0,
+      "time_score": 0.5,
+      "amount_score": 0.19999999999999996,
+      "penalcode_index_recall": 0.75,
+      "penalcode_index_precision": 1.0
+    },
+    "dataset": "JuDGE"
+  },
+  {
+    "test_idx": 902,
+    "metrics": {
+      "reasoning_bert_score": 0.838312029838562,
+      "judge_bert_score": 0.8433953523635864,
+      "reasoning_meteor": 0.4854487087316887,
+      "judge_meteor": 0.39893617021276595,
+      "crime_recall": 1.0,
+      "crime_precision": 1.0,
+      "time_score": 0.75,
+      "amount_score": 0.6666666666666667,
+      "penalcode_index_recall": 0.6666666666666666,
+      "penalcode_index_precision": 0.3333333333333333
+    },
+    "dataset": "JuDGE"
+  },
+  {
+    "test_idx": 187,
+    "metrics": {
+      "reasoning_bert_score": 0.890861988067627,
+      "judge_bert_score": 0.7514898180961609,
+      "reasoning_meteor": 0.7339186373938323,
+      "judge_meteor": 0.3166539509536785,
+      "crime_recall": 1.0,
+      "crime_precision": 1.0,
+      "time_score": 0.6666666666666667,
+      "amount_score": 0.4,
+      "penalcode_index_recall": 0.5,
+      "penalcode_index_precision": 1.0
+    },
+    "dataset": "JuDGE"
+  },
+  {
+    "test_idx": 953,
+    "metrics": {
+      "reasoning_bert_score": 0.7489976286888123,
+      "judge_bert_score": 0.7655019164085388,
+      "reasoning_meteor": 0.4816756065094921,
+      "judge_meteor": 0.28361344537815125,
+      "crime_recall": 1.0,
+      "crime_precision": 1.0,
+      "time_score": 0.65625,
+      "amount_score": null,
+      "penalcode_index_recall": 0.6,
+      "penalcode_index_precision": 1.0
+    },
+    "dataset": "JuDGE"
+  },
+  {
+    "test_idx": 1780,
+    "metrics": {
+      "reasoning_bert_score": 0.8181266188621521,
+      "judge_bert_score": 0.7443891167640686,
+      "reasoning_meteor": 0.3762586686342201,
+      "judge_meteor": 0.24799358715895778,
+      "crime_recall": 1.0,
+      "crime_precision": 1.0,
+      "time_score": 0.75,
+      "amount_score": 1.0,
+      "penalcode_index_recall": 0.5,
+      "penalcode_index_precision": 0.3333333333333333
+    },
+    "dataset": "JuDGE"
+  },
+  {
+    "test_idx": 986,
+    "metrics": {
+      "reasoning_bert_score": 0.8095131516456604,
+      "judge_bert_score": 0.7832454442977905,
+      "reasoning_meteor": 0.6019249138253251,
+      "judge_meteor": 0.34244530329921874,
+      "crime_recall": 1.0,
+      "crime_precision": 1.0,
+      "time_score": 0.8333333333333334,
+      "amount_score": null,
+      "penalcode_index_recall": 1.0,
+      "penalcode_index_precision": 0.5
+    },
+    "dataset": "JuDGE"
+  },
+  {
+    "test_idx": 1086,
+    "metrics": {
+      "reasoning_bert_score": 0.7511441707611084,
+      "judge_bert_score": 0.7308863401412964,
+      "reasoning_meteor": 0.31137346769301755,
+      "judge_meteor": 0.3123945205479452,
+      "crime_recall": 1.0,
+      "crime_precision": 1.0,
+      "time_score": 0.25,
+      "amount_score": 0.6,
+      "penalcode_index_recall": 0.5,
+      "penalcode_index_precision": 1.0
+    },
+    "dataset": "JuDGE"
+  },
+  {
+    "test_idx": 2172,
+    "metrics": {
+      "reasoning_bert_score": 0.8134170174598694,
+      "judge_bert_score": 0.9853930473327637,
+      "reasoning_meteor": 0.7214267324479997,
+      "judge_meteor": 0.9142848884264078,
+      "crime_recall": 1.0,
+      "crime_precision": 1.0,
+      "time_score": 1.0,
+      "amount_score": 0.5,
+      "penalcode_index_recall": 1.0,
+      "penalcode_index_precision": 0.5
+    },
+    "dataset": "JuDGE"
+  },
+  {
+    "test_idx": 1200,
+    "metrics": {
+      "reasoning_bert_score": 0.7956726551055908,
+      "judge_bert_score": 0.9020832777023315,
+      "reasoning_meteor": 0.4340277777777778,
+      "judge_meteor": 0.7948606927710842,
+      "crime_recall": 1.0,
+      "crime_precision": 1.0,
+      "time_score": 0.7,
+      "amount_score": null,
+      "penalcode_index_recall": 1.0,
+      "penalcode_index_precision": 1.0
+    },
+    "dataset": "JuDGE"
+  },
+  {
+    "test_idx": 2409,
+    "metrics": {
+      "reasoning_bert_score": 0.7913853526115417,
+      "judge_bert_score": 0.7776269912719727,
+      "reasoning_meteor": 0.46152274698628265,
+      "judge_meteor": 0.30237327405366476,
+      "crime_recall": 1.0,
+      "crime_precision": 1.0,
+      "time_score": 0.18181818181818177,
+      "amount_score": null,
+      "penalcode_index_recall": 1.0,
+      "penalcode_index_precision": 1.0
+    },
+    "dataset": "JuDGE"
+  },
+  {
+    "test_idx": 2484,
+    "metrics": {
+      "reasoning_bert_score": 0.8087927103042603,
+      "judge_bert_score": 0.8266597986221313,
+      "reasoning_meteor": 0.46033889122567895,
+      "judge_meteor": 0.3248708893108772,
+      "crime_recall": 1.0,
+      "crime_precision": 0.5,
+      "time_score": 0.2222222222222222,
+      "amount_score": 0.5,
+      "penalcode_index_recall": 0.16666666666666666,
+      "penalcode_index_precision": 0.25
+    },
+    "dataset": "JuDGE"
+  },
+  {
+    "test_idx": 920,
+    "metrics": {
+      "reasoning_bert_score": 0.828087329864502,
+      "judge_bert_score": 0.7162708044052124,
+      "reasoning_meteor": 0.5425374147022333,
+      "judge_meteor": 0.2687796771130105,
+      "crime_recall": 1.0,
+      "crime_precision": 1.0,
+      "time_score": 0.7222222222222222,
+      "amount_score": 1.0,
+      "penalcode_index_recall": 0.8333333333333334,
+      "penalcode_index_precision": 0.8333333333333334
+    },
+    "dataset": "JuDGE"
+  },
+  {
+    "test_idx": 681,
+    "metrics": {
+      "reasoning_bert_score": 0.855271577835083,
+      "judge_bert_score": 0.9077358245849609,
+      "reasoning_meteor": 0.5907149164270195,
+      "judge_meteor": 0.7476803627528692,
+      "crime_recall": 1.0,
+      "crime_precision": 1.0,
+      "time_score": 0.5833333333333333,
+      "amount_score": 0.6,
+      "penalcode_index_recall": 1.0,
+      "penalcode_index_precision": 0.75
+    },
+    "dataset": "JuDGE"
+  },
+  {
+    "test_idx": 2087,
+    "metrics": {
+      "reasoning_bert_score": 0.7949431538581848,
+      "judge_bert_score": 0.7712130546569824,
+      "reasoning_meteor": 0.3380245245852674,
+      "judge_meteor": 0.2506367013588869,
+      "crime_recall": 1.0,
+      "crime_precision": 1.0,
+      "time_score": 0.8571428571428572,
+      "amount_score": 0.5,
+      "penalcode_index_recall": 1.0,
+      "penalcode_index_precision": 0.8
+    },
+    "dataset": "JuDGE"
+  },
+  {
+    "test_idx": 933,
+    "metrics": {
+      "reasoning_bert_score": 0.7789866328239441,
+      "judge_bert_score": 0.7834404110908508,
+      "reasoning_meteor": 0.3512438500143428,
+      "judge_meteor": 0.4239073196419168,
+      "crime_recall": 1.0,
+      "crime_precision": 1.0,
+      "time_score": 0.5,
+      "amount_score": 1.0,
+      "penalcode_index_recall": 1.0,
+      "penalcode_index_precision": 0.5555555555555556
+    },
+    "dataset": "JuDGE"
+  },
+  {
+    "test_idx": 1729,
+    "metrics": {
+      "reasoning_bert_score": 0.8471910357475281,
+      "judge_bert_score": 0.9124970436096191,
+      "reasoning_meteor": 0.5567874640573282,
+      "judge_meteor": 0.8886918862691982,
+      "crime_recall": 1.0,
+      "crime_precision": 1.0,
+      "time_score": 0.6,
+      "amount_score": 0.4,
+      "penalcode_index_recall": 0.8,
+      "penalcode_index_precision": 0.8
+    },
+    "dataset": "JuDGE"
+  },
+  {
+    "test_idx": 1486,
+    "metrics": {
+      "reasoning_bert_score": 0.8033439517021179,
+      "judge_bert_score": 0.7857823967933655,
+      "reasoning_meteor": 0.39322508717576177,
+      "judge_meteor": 0.2405376453784942,
+      "crime_recall": 1.0,
+      "crime_precision": 1.0,
+      "time_score": 1.0,
+      "amount_score": 0.0,
+      "penalcode_index_recall": 0.5,
+      "penalcode_index_precision": 1.0
+    },
+    "dataset": "JuDGE"
+  },
+  {
+    "test_idx": 2187,
+    "metrics": {
+      "reasoning_bert_score": 0.7743197083473206,
+      "judge_bert_score": 0.6756969094276428,
+      "reasoning_meteor": 0.4364279256654947,
+      "judge_meteor": 0.11996768688451208,
+      "crime_recall": 1.0,
+      "crime_precision": 1.0,
+      "time_score": 0.5,
+      "amount_score": 0.5,
+      "penalcode_index_recall": 0.8,
+      "penalcode_index_precision": 0.8
+    },
+    "dataset": "JuDGE"
+  },
+  {
+    "test_idx": 386,
+    "metrics": {
+      "reasoning_bert_score": 0.793281078338623,
+      "judge_bert_score": 0.7798320651054382,
+      "reasoning_meteor": 0.34464994547437294,
+      "judge_meteor": 0.33114581763230416,
+      "crime_recall": 1.0,
+      "crime_precision": 1.0,
+      "time_score": 0.5833333333333333,
+      "amount_score": 0.5,
+      "penalcode_index_recall": 0.75,
+      "penalcode_index_precision": 1.0
+    },
+    "dataset": "JuDGE"
+  },
+  {
+    "test_idx": 102,
+    "metrics": {
+      "reasoning_bert_score": 0.8320754170417786,
+      "judge_bert_score": 0.9069002270698547,
+      "reasoning_meteor": 0.7005038752831256,
+      "judge_meteor": 0.8102669404517455,
+      "crime_recall": 1.0,
+      "crime_precision": 1.0,
+      "time_score": 1.0,
+      "amount_score": 0.7142857142857143,
+      "penalcode_index_recall": 1.0,
+      "penalcode_index_precision": 1.0
+    },
+    "dataset": "JuDGE"
+  },
+  {
+    "test_idx": 2105,
+    "metrics": {
+      "reasoning_bert_score": 0.7682709097862244,
+      "judge_bert_score": 0.6887404918670654,
+      "reasoning_meteor": 0.4248816305231818,
+      "judge_meteor": 0.1894657665857605,
+      "crime_recall": 1.0,
+      "crime_precision": 1.0,
+      "time_score": 1.0,
+      "amount_score": 0.4,
+      "penalcode_index_recall": 1.0,
+      "penalcode_index_precision": 0.2
+    },
+    "dataset": "JuDGE"
+  },
+  {
+    "test_idx": 779,
+    "metrics": {
+      "reasoning_bert_score": 0.8289441466331482,
+      "judge_bert_score": 0.7667118310928345,
+      "reasoning_meteor": 0.44347307211738696,
+      "judge_meteor": 0.3118503118503118,
+      "crime_recall": 1.0,
+      "crime_precision": 1.0,
+      "time_score": 0.8333333333333334,
+      "amount_score": 0.5,
+      "penalcode_index_recall": 0.75,
+      "penalcode_index_precision": 1.0
+    },
+    "dataset": "JuDGE"
+  },
+  {
+    "test_idx": 1408,
+    "metrics": {
+      "reasoning_bert_score": 0.8987996578216553,
+      "judge_bert_score": 0.7650566697120667,
+      "reasoning_meteor": 0.7622956869945517,
+      "judge_meteor": 0.2956439393939394,
+      "crime_recall": 1.0,
+      "crime_precision": 1.0,
+      "time_score": 1.0,
+      "amount_score": 1.0,
+      "penalcode_index_recall": 1.0,
+      "penalcode_index_precision": 1.0
+    },
+    "dataset": "JuDGE"
+  },
+  {
+    "test_idx": 1015,
+    "metrics": {
+      "reasoning_bert_score": 0.8639444708824158,
+      "judge_bert_score": 0.7402142286300659,
+      "reasoning_meteor": 0.5824813628744925,
+      "judge_meteor": 0.26546214099216714,
+      "crime_recall": 1.0,
+      "crime_precision": 1.0,
+      "time_score": 1.0,
+      "amount_score": 0.5,
+      "penalcode_index_recall": 0.6,
+      "penalcode_index_precision": 1.0
+    },
+    "dataset": "JuDGE"
+  },
+  {
+    "test_idx": 60,
+    "metrics": {
+      "reasoning_bert_score": 0.8078885078430176,
+      "judge_bert_score": 0.7530816793441772,
+      "reasoning_meteor": 0.42124238198438196,
+      "judge_meteor": 0.44583082593651274,
+      "crime_recall": 1.0,
+      "crime_precision": 1.0,
+      "time_score": 1.0,
+      "amount_score": 1.0,
+      "penalcode_index_recall": 0.3333333333333333,
+      "penalcode_index_precision": 0.6
+    },
+    "dataset": "JuDGE"
+  },
+  {
+    "test_idx": 864,
+    "metrics": {
+      "reasoning_bert_score": 0.7282842397689819,
+      "judge_bert_score": 0.748401403427124,
+      "reasoning_meteor": 0.3733878099248775,
+      "judge_meteor": 0.2689403900942362,
+      "crime_recall": 1.0,
+      "crime_precision": 1.0,
+      "time_score": 0.6,
+      "amount_score": 0.6666666666666667,
+      "penalcode_index_recall": 0.5714285714285714,
+      "penalcode_index_precision": 1.0
+    },
+    "dataset": "JuDGE"
+  },
+  {
+    "test_idx": 221,
+    "metrics": {
+      "reasoning_bert_score": 0.9020550847053528,
+      "judge_bert_score": 0.7629177570343018,
+      "reasoning_meteor": 0.7613351382160158,
+      "judge_meteor": 0.2986794717887155,
+      "crime_recall": 1.0,
+      "crime_precision": 1.0,
+      "time_score": 0.8333333333333334,
+      "amount_score": 0.6,
+      "penalcode_index_recall": 0.6,
+      "penalcode_index_precision": 1.0
+    },
+    "dataset": "JuDGE"
+  },
+  {
+    "test_idx": 1470,
+    "metrics": {
+      "reasoning_bert_score": 0.827621340751648,
+      "judge_bert_score": 0.7101947665214539,
+      "reasoning_meteor": 0.5663730536634809,
+      "judge_meteor": 0.20161290322580647,
+      "crime_recall": 1.0,
+      "crime_precision": 1.0,
+      "time_score": 0.35,
+      "amount_score": null,
+      "penalcode_index_recall": 1.0,
+      "penalcode_index_precision": 0.6666666666666666
+    },
+    "dataset": "JuDGE"
+  },
+  {
+    "test_idx": 2254,
+    "metrics": {
+      "reasoning_bert_score": 0.898677408695221,
+      "judge_bert_score": 0.7165929675102234,
+      "reasoning_meteor": 0.7977798707370174,
+      "judge_meteor": 0.28968011755397305,
+      "crime_recall": 1.0,
+      "crime_precision": 1.0,
+      "time_score": 0.41666666666666663,
+      "amount_score": 0.5,
+      "penalcode_index_recall": 1.0,
+      "penalcode_index_precision": 1.0
+    },
+    "dataset": "JuDGE"
+  },
+  {
+    "test_idx": 974,
+    "metrics": {
+      "reasoning_bert_score": 0.817599892616272,
+      "judge_bert_score": 0.8873371481895447,
+      "reasoning_meteor": 0.5554129475247779,
+      "judge_meteor": 0.842983020990615,
+      "crime_recall": 1.0,
+      "crime_precision": 1.0,
+      "time_score": 1.0,
+      "amount_score": 0.0,
+      "penalcode_index_recall": 1.0,
+      "penalcode_index_precision": 1.0
+    },
+    "dataset": "JuDGE"
+  },
+  {
+    "test_idx": 271,
+    "metrics": {
+      "reasoning_bert_score": 0.8424568772315979,
+      "judge_bert_score": 0.7228212952613831,
+      "reasoning_meteor": 0.5582667812511974,
+      "judge_meteor": 0.24106028323002754,
+      "crime_recall": 1.0,
+      "crime_precision": 1.0,
+      "time_score": 0.5,
+      "amount_score": 0.5,
+      "penalcode_index_recall": 0.4,
+      "penalcode_index_precision": 0.6666666666666666
+    },
+    "dataset": "JuDGE"
+  },
+  {
+    "test_idx": 875,
+    "metrics": {
+      "reasoning_bert_score": 0.8357832431793213,
+      "judge_bert_score": 0.7074963450431824,
+      "reasoning_meteor": 0.5982930700548771,
+      "judge_meteor": 0.2332893941890482,
+      "crime_recall": 1.0,
+      "crime_precision": 1.0,
+      "time_score": 1.0,
+      "amount_score": 1.0,
+      "penalcode_index_recall": 0.6666666666666666,
+      "penalcode_index_precision": 0.5714285714285714
+    },
+    "dataset": "JuDGE"
+  },
+  {
+    "test_idx": 163,
+    "metrics": {
+      "avg_score": 0.7857142857142857
+    },
+    "dataset": "HelloBench-Academic&Knowledge-QA"
+  },
+  {
+    "test_idx": 28,
+    "metrics": {
+      "avg_score": 0.75
+    },
+    "dataset": "HelloBench-Academic&Knowledge-QA"
+  },
+  {
+    "test_idx": 6,
+    "metrics": {
+      "avg_score": 0.7857142857142857
+    },
+    "dataset": "HelloBench-Academic&Knowledge-QA"
+  },
+  {
+    "test_idx": 189,
+    "metrics": {
+      "avg_score": 0.7857142857142857
+    },
+    "dataset": "HelloBench-Academic&Knowledge-QA"
+  },
+  {
+    "test_idx": 70,
+    "metrics": {
+      "avg_score": 0.8571428571428571
+    },
+    "dataset": "HelloBench-Academic&Knowledge-QA"
+  },
+  {
+    "test_idx": 62,
+    "metrics": {
+      "avg_score": 0.8571428571428571
+    },
+    "dataset": "HelloBench-Academic&Knowledge-QA"
+  },
+  {
+    "test_idx": 57,
+    "metrics": {
+      "avg_score": 1.0
+    },
+    "dataset": "HelloBench-Academic&Knowledge-QA"
+  },
+  {
+    "test_idx": 35,
+    "metrics": {
+      "avg_score": 0.9285714285714286
+    },
+    "dataset": "HelloBench-Academic&Knowledge-QA"
+  },
+  {
+    "test_idx": 188,
+    "metrics": {
+      "avg_score": 0.8571428571428571
+    },
+    "dataset": "HelloBench-Academic&Knowledge-QA"
+  },
+  {
+    "test_idx": 26,
+    "metrics": {
+      "avg_score": 0.8928571428571429
+    },
+    "dataset": "HelloBench-Academic&Knowledge-QA"
+  },
+  {
+    "test_idx": 173,
+    "metrics": {
+      "avg_score": 0.7857142857142857
+    },
+    "dataset": "HelloBench-Academic&Knowledge-QA"
+  },
+  {
+    "test_idx": 139,
+    "metrics": {
+      "avg_score": 0.75
+    },
+    "dataset": "HelloBench-Academic&Knowledge-QA"
+  },
+  {
+    "test_idx": 22,
+    "metrics": {
+      "avg_score": 0.9285714285714286
+    },
+    "dataset": "HelloBench-Academic&Knowledge-QA"
+  },
+  {
+    "test_idx": 151,
+    "metrics": {
+      "avg_score": 0.75
+    },
+    "dataset": "HelloBench-Academic&Knowledge-QA"
+  },
+  {
+    "test_idx": 108,
+    "metrics": {
+      "avg_score": 1.0
+    },
+    "dataset": "HelloBench-Academic&Knowledge-QA"
+  },
+  {
+    "test_idx": 8,
+    "metrics": {
+      "avg_score": 1.0
+    },
+    "dataset": "HelloBench-Academic&Knowledge-QA"
+  },
+  {
+    "test_idx": 7,
+    "metrics": {
+      "avg_score": 0.7857142857142857
+    },
+    "dataset": "HelloBench-Academic&Knowledge-QA"
+  },
+  {
+    "test_idx": 23,
+    "metrics": {
+      "avg_score": 1.0
+    },
+    "dataset": "HelloBench-Academic&Knowledge-QA"
+  },
+  {
+    "test_idx": 55,
+    "metrics": {
+      "avg_score": 1.0
+    },
+    "dataset": "HelloBench-Academic&Knowledge-QA"
+  },
+  {
+    "test_idx": 59,
+    "metrics": {
+      "avg_score": 0.7857142857142857
+    },
+    "dataset": "HelloBench-Academic&Knowledge-QA"
+  },
+  {
+    "test_idx": 129,
+    "metrics": {
+      "avg_score": 0.75
+    },
+    "dataset": "HelloBench-Academic&Knowledge-QA"
+  },
+  {
+    "test_idx": 154,
+    "metrics": {
+      "avg_score": 0.8571428571428571
+    },
+    "dataset": "HelloBench-Academic&Knowledge-QA"
+  },
+  {
+    "test_idx": 197,
+    "metrics": {
+      "avg_score": 0.8928571428571429
+    },
+    "dataset": "HelloBench-Academic&Knowledge-QA"
+  },
+  {
+    "test_idx": 143,
+    "metrics": {
+      "avg_score": 1.0
+    },
+    "dataset": "HelloBench-Academic&Knowledge-QA"
+  },
+  {
+    "test_idx": 50,
+    "metrics": {
+      "avg_score": 1.0
+    },
+    "dataset": "HelloBench-Academic&Knowledge-QA"
+  },
+  {
+    "test_idx": 166,
+    "metrics": {
+      "avg_score": 0.7857142857142857
+    },
+    "dataset": "HelloBench-Academic&Knowledge-QA"
+  },
+  {
+    "test_idx": 191,
+    "metrics": {
+      "avg_score": 1.0
+    },
+    "dataset": "HelloBench-Academic&Knowledge-QA"
+  },
+  {
+    "test_idx": 107,
+    "metrics": {
+      "avg_score": 1.0
+    },
+    "dataset": "HelloBench-Academic&Knowledge-QA"
+  },
+  {
+    "test_idx": 56,
+    "metrics": {
+      "avg_score": 1.0
+    },
+    "dataset": "HelloBench-Academic&Knowledge-QA"
+  },
+  {
+    "test_idx": 114,
+    "metrics": {
+      "avg_score": 1.0
+    },
+    "dataset": "HelloBench-Academic&Knowledge-QA"
+  },
+  {
+    "test_idx": 150,
+    "metrics": {
+      "avg_score": 0.7142857142857143
+    },
+    "dataset": "HelloBench-Academic&Knowledge-QA"
+  },
+  {
+    "test_idx": 71,
+    "metrics": {
+      "avg_score": 0.8571428571428571
+    },
+    "dataset": "HelloBench-Academic&Knowledge-QA"
+  },
+  {
+    "test_idx": 1,
+    "metrics": {
+      "avg_score": 1.0
+    },
+    "dataset": "HelloBench-Academic&Knowledge-QA"
+  },
+  {
+    "test_idx": 40,
+    "metrics": {
+      "avg_score": 0.8214285714285714
+    },
+    "dataset": "HelloBench-Academic&Knowledge-QA"
+  },
+  {
+    "test_idx": 185,
+    "metrics": {
+      "avg_score": 1.0
+    },
+    "dataset": "HelloBench-Academic&Knowledge-QA"
+  },
+  {
+    "test_idx": 87,
+    "metrics": {
+      "avg_score": 0.8571428571428571
+    },
+    "dataset": "HelloBench-Academic&Knowledge-QA"
+  },
+  {
+    "test_idx": 168,
+    "metrics": {
+      "avg_score": 0.75
+    },
+    "dataset": "HelloBench-Academic&Knowledge-QA"
+  },
+  {
+    "test_idx": 39,
+    "metrics": {
+      "avg_score": 0.8214285714285714
+    },
+    "dataset": "HelloBench-Academic&Knowledge-QA"
+  },
+  {
+    "test_idx": 181,
+    "metrics": {
+      "avg_score": 0.75
+    },
+    "dataset": "HelloBench-Academic&Knowledge-QA"
+  },
+  {
+    "test_idx": 86,
+    "metrics": {
+      "avg_score": 0.6428571428571429
+    },
+    "dataset": "HelloBench-Academic&Knowledge-QA"
+  },
+  {
+    "test_idx": 210,
+    "metrics": {
+      "avg_score": 1.0
+    },
+    "dataset": "HelloBench-Academic&Knowledge-QA"
+  },
+  {
+    "test_idx": 201,
+    "metrics": {
+      "avg_score": 0.9166666666666666
+    },
+    "dataset": "HelloBench-Academic&Knowledge-QA"
+  },
+  {
+    "test_idx": 200,
+    "metrics": {
+      "avg_score": 1.0
+    },
+    "dataset": "HelloBench-Academic&Knowledge-QA"
+  },
+  {
+    "test_idx": 96,
+    "metrics": {
+      "meteor": 0.2892154334823075
+    },
+    "dataset": "WritingPrompts"
+  },
+  {
+    "test_idx": 1330,
+    "metrics": {
+      "meteor": 0.2314768106665189
+    },
+    "dataset": "WritingPrompts"
+  },
+  {
+    "test_idx": 457,
+    "metrics": {
+      "meteor": 0.2281999143311354
+    },
+    "dataset": "WritingPrompts"
+  },
+  {
+    "test_idx": 1537,
+    "metrics": {
+      "meteor": 0.27259006537222263
+    },
+    "dataset": "WritingPrompts"
+  },
+  {
+    "test_idx": 1287,
+    "metrics": {
+      "meteor": 0.28690723370840204
+    },
+    "dataset": "WritingPrompts"
+  },
+  {
+    "test_idx": 255,
+    "metrics": {
+      "meteor": 0.22781605962593166
+    },
+    "dataset": "WritingPrompts"
+  },
+  {
+    "test_idx": 1652,
+    "metrics": {
+      "meteor": 0.22502246024667963
+    },
+    "dataset": "WritingPrompts"
+  },
+  {
+    "test_idx": 1657,
+    "metrics": {
+      "meteor": 0.2401024092138174
+    },
+    "dataset": "WritingPrompts"
+  },
+  {
+    "test_idx": 1099,
+    "metrics": {
+      "meteor": 0.19263456090651554
+    },
+    "dataset": "WritingPrompts"
+  },
+  {
+    "test_idx": 407,
+    "metrics": {
+      "meteor": 0.19587429761800854
+    },
+    "dataset": "WritingPrompts"
+  },
+  {
+    "test_idx": 788,
+    "metrics": {
+      "meteor": 0.17040860495867907
+    },
+    "dataset": "WritingPrompts"
+  },
+  {
+    "test_idx": 1568,
+    "metrics": {
+      "meteor": 0.25742812462408277
+    },
+    "dataset": "WritingPrompts"
+  },
+  {
+    "test_idx": 229,
+    "metrics": {
+      "meteor": 0.24755350030654305
+    },
+    "dataset": "WritingPrompts"
+  },
+  {
+    "test_idx": 1022,
+    "metrics": {
+      "meteor": 0.2461759082217973
+    },
+    "dataset": "WritingPrompts"
+  },
+  {
+    "test_idx": 1034,
+    "metrics": {
+      "meteor": 0.22072636192861614
+    },
+    "dataset": "WritingPrompts"
+  },
+  {
+    "test_idx": 1529,
+    "metrics": {
+      "meteor": 0.22376098716755236
+    },
+    "dataset": "WritingPrompts"
+  },
+  {
+    "test_idx": 334,
+    "metrics": {
+      "meteor": 0.28181088056952225
+    },
+    "dataset": "WritingPrompts"
+  },
+  {
+    "test_idx": 1508,
+    "metrics": {
+      "meteor": 0.26392628574530497
+    },
+    "dataset": "WritingPrompts"
+  },
+  {
+    "test_idx": 285,
+    "metrics": {
+      "meteor": 0.20742764873928704
+    },
+    "dataset": "WritingPrompts"
+  },
+  {
+    "test_idx": 1232,
+    "metrics": {
+      "meteor": 0.2750239846498241
+    },
+    "dataset": "WritingPrompts"
+  },
+  {
+    "test_idx": 1236,
+    "metrics": {
+      "meteor": 0.21241148462508025
+    },
+    "dataset": "WritingPrompts"
+  },
+  {
+    "test_idx": 1494,
+    "metrics": {
+      "meteor": 0.281590702316664
+    },
+    "dataset": "WritingPrompts"
+  },
+  {
+    "test_idx": 135,
+    "metrics": {
+      "meteor": 0.23799062683069716
+    },
+    "dataset": "WritingPrompts"
+  },
+  {
+    "test_idx": 1838,
+    "metrics": {
+      "meteor": 0.20213535146831377
+    },
+    "dataset": "WritingPrompts"
+  },
+  {
+    "test_idx": 257,
+    "metrics": {
+      "meteor": 0.28690969167287494
+    },
+    "dataset": "WritingPrompts"
+  },
+  {
+    "test_idx": 1316,
+    "metrics": {
+      "meteor": 0.2345786272806256
+    },
+    "dataset": "WritingPrompts"
+  },
+  {
+    "test_idx": 778,
+    "metrics": {
+      "meteor": 0.24494491086308068
+    },
+    "dataset": "WritingPrompts"
+  },
+  {
+    "test_idx": 23,
+    "metrics": {
+      "meteor": 0.24376737133321136
+    },
+    "dataset": "WritingPrompts"
+  },
+  {
+    "test_idx": 313,
+    "metrics": {
+      "meteor": 0.17206628531131354
+    },
+    "dataset": "WritingPrompts"
+  },
+  {
+    "test_idx": 1988,
+    "metrics": {
+      "meteor": 0.12523417431797465
+    },
+    "dataset": "WritingPrompts"
+  },
+  {
+    "test_idx": 493,
+    "metrics": {
+      "meteor": 0.1809236629106491
+    },
+    "dataset": "WritingPrompts"
+  },
+  {
+    "test_idx": 1493,
+    "metrics": {
+      "meteor": 0.2721254313914456
+    },
+    "dataset": "WritingPrompts"
+  },
+  {
+    "test_idx": 541,
+    "metrics": {
+      "meteor": 0.20992907801418445
+    },
+    "dataset": "WritingPrompts"
+  },
+  {
+    "test_idx": 1409,
+    "metrics": {
+      "meteor": 0.2841423934043976
+    },
+    "dataset": "WritingPrompts"
+  },
+  {
+    "test_idx": 538,
+    "metrics": {
+      "meteor": 0.2606523762405002
+    },
+    "dataset": "WritingPrompts"
+  },
+  {
+    "test_idx": 1266,
+    "metrics": {
+      "meteor": 0.29819834114463595
+    },
+    "dataset": "WritingPrompts"
+  },
+  {
+    "test_idx": 1869,
+    "metrics": {
+      "meteor": 0.2445058943385242
+    },
+    "dataset": "WritingPrompts"
+  },
+  {
+    "test_idx": 228,
+    "metrics": {
+      "meteor": 0.18373618365009217
+    },
+    "dataset": "WritingPrompts"
+  },
+  {
+    "test_idx": 323,
+    "metrics": {
+      "meteor": 0.28344054944711133
+    },
+    "dataset": "WritingPrompts"
+  },
+  {
+    "test_idx": 1039,
+    "metrics": {
+      "meteor": 0.10667172916757053
+    },
+    "dataset": "WritingPrompts"
+  },
+  {
+    "test_idx": 326,
+    "metrics": {
+      "meteor": 0.24281653614440843
+    },
+    "dataset": "WritingPrompts"
+  },
+  {
+    "test_idx": 514,
+    "metrics": {
+      "meteor": 0.2833941000994366
+    },
+    "dataset": "WritingPrompts"
+  },
+  {
+    "test_idx": 629,
+    "metrics": {
+      "meteor": 0.2840078010726475
+    },
+    "dataset": "WritingPrompts"
+  },
+  {
+    "test_idx": 206,
+    "metrics": {
+      "meteor": 0.19715739834250662
+    },
+    "dataset": "WritingPrompts"
+  },
+  {
+    "test_idx": 765,
+    "metrics": {
+      "meteor": 0.2234910277324633
+    },
+    "dataset": "WritingPrompts"
+  },
+  {
+    "test_idx": 1650,
+    "metrics": {
+      "meteor": 0.2520784102444192
+    },
+    "dataset": "WritingPrompts"
+  },
+  {
+    "test_idx": 1902,
+    "metrics": {
+      "meteor": 0.24553824051830517
+    },
+    "dataset": "WritingPrompts"
+  },
+  {
+    "test_idx": 929,
+    "metrics": {
+      "meteor": 0.2537115001107911
+    },
+    "dataset": "WritingPrompts"
+  },
+  {
+    "test_idx": 1774,
+    "metrics": {
+      "meteor": 0.24509034023873066
+    },
+    "dataset": "WritingPrompts"
+  },
+  {
+    "test_idx": 1498,
+    "metrics": {
+      "meteor": 0.2562342263854756
+    },
+    "dataset": "WritingPrompts"
+  }
+]

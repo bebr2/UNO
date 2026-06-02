@@ -1,0 +1,1252 @@
+[
+  {
+    "test_idx": 128,
+    "metrics": {
+      "rougel": 0.20553359276601732
+    },
+    "dataset": "LexEval-QA"
+  },
+  {
+    "test_idx": 332,
+    "metrics": {
+      "rougel": 0.17712176678149816
+    },
+    "dataset": "LexEval-QA"
+  },
+  {
+    "test_idx": 114,
+    "metrics": {
+      "rougel": 0.1442307653406991
+    },
+    "dataset": "LexEval-QA"
+  },
+  {
+    "test_idx": 276,
+    "metrics": {
+      "rougel": 0.19607842859477126
+    },
+    "dataset": "LexEval-QA"
+  },
+  {
+    "test_idx": 321,
+    "metrics": {
+      "rougel": 0.2682926788204773
+    },
+    "dataset": "LexEval-QA"
+  },
+  {
+    "test_idx": 235,
+    "metrics": {
+      "rougel": 0.11111110920264448
+    },
+    "dataset": "LexEval-QA"
+  },
+  {
+    "test_idx": 309,
+    "metrics": {
+      "rougel": 0.1556195916963019
+    },
+    "dataset": "LexEval-QA"
+  },
+  {
+    "test_idx": 142,
+    "metrics": {
+      "rougel": 0.10232557963266632
+    },
+    "dataset": "LexEval-QA"
+  },
+  {
+    "test_idx": 82,
+    "metrics": {
+      "rougel": 0.17796609735887686
+    },
+    "dataset": "LexEval-QA"
+  },
+  {
+    "test_idx": 101,
+    "metrics": {
+      "rougel": 0.09677419118236218
+    },
+    "dataset": "LexEval-QA"
+  },
+  {
+    "test_idx": 222,
+    "metrics": {
+      "rougel": 0.1181102333049167
+    },
+    "dataset": "LexEval-QA"
+  },
+  {
+    "test_idx": 491,
+    "metrics": {
+      "rougel": 0.23863635865960756
+    },
+    "dataset": "LexEval-QA"
+  },
+  {
+    "test_idx": 342,
+    "metrics": {
+      "rougel": 0.1793721945416156
+    },
+    "dataset": "LexEval-QA"
+  },
+  {
+    "test_idx": 134,
+    "metrics": {
+      "rougel": 0.254335256957466
+    },
+    "dataset": "LexEval-QA"
+  },
+  {
+    "test_idx": 258,
+    "metrics": {
+      "rougel": 0.14611871965388545
+    },
+    "dataset": "LexEval-QA"
+  },
+  {
+    "test_idx": 56,
+    "metrics": {
+      "rougel": 0.0
+    },
+    "dataset": "LexEval-QA"
+  },
+  {
+    "test_idx": 463,
+    "metrics": {
+      "rougel": 0.1472392621325605
+    },
+    "dataset": "LexEval-QA"
+  },
+  {
+    "test_idx": 377,
+    "metrics": {
+      "rougel": 0.12030074965006504
+    },
+    "dataset": "LexEval-QA"
+  },
+  {
+    "test_idx": 71,
+    "metrics": {
+      "rougel": 0.1443298945359644
+    },
+    "dataset": "LexEval-QA"
+  },
+  {
+    "test_idx": 308,
+    "metrics": {
+      "rougel": 0.1340206163115103
+    },
+    "dataset": "LexEval-QA"
+  },
+  {
+    "test_idx": 433,
+    "metrics": {
+      "rougel": 0.18378378015836383
+    },
+    "dataset": "LexEval-QA"
+  },
+  {
+    "test_idx": 413,
+    "metrics": {
+      "rougel": 0.0
+    },
+    "dataset": "LexEval-QA"
+  },
+  {
+    "test_idx": 255,
+    "metrics": {
+      "rougel": 0.13333333084738297
+    },
+    "dataset": "LexEval-QA"
+  },
+  {
+    "test_idx": 458,
+    "metrics": {
+      "rougel": 0.12371133773621006
+    },
+    "dataset": "LexEval-QA"
+  },
+  {
+    "test_idx": 484,
+    "metrics": {
+      "rougel": 0.18848167335434887
+    },
+    "dataset": "LexEval-QA"
+  },
+  {
+    "test_idx": 204,
+    "metrics": {
+      "rougel": 0.19999999653372785
+    },
+    "dataset": "LexEval-QA"
+  },
+  {
+    "test_idx": 490,
+    "metrics": {
+      "rougel": 0.0
+    },
+    "dataset": "LexEval-QA"
+  },
+  {
+    "test_idx": 319,
+    "metrics": {
+      "rougel": 0.16748768101628292
+    },
+    "dataset": "LexEval-QA"
+  },
+  {
+    "test_idx": 58,
+    "metrics": {
+      "rougel": 0.2352941137060141
+    },
+    "dataset": "LexEval-QA"
+  },
+  {
+    "test_idx": 91,
+    "metrics": {
+      "rougel": 0.11805555202256955
+    },
+    "dataset": "LexEval-QA"
+  },
+  {
+    "test_idx": 268,
+    "metrics": {
+      "rougel": 0.17421602460828714
+    },
+    "dataset": "LexEval-QA"
+  },
+  {
+    "test_idx": 236,
+    "metrics": {
+      "rougel": 0.13270141844522818
+    },
+    "dataset": "LexEval-QA"
+  },
+  {
+    "test_idx": 176,
+    "metrics": {
+      "rougel": 0.08396946423868075
+    },
+    "dataset": "LexEval-QA"
+  },
+  {
+    "test_idx": 350,
+    "metrics": {
+      "rougel": 0.07594936575691219
+    },
+    "dataset": "LexEval-QA"
+  },
+  {
+    "test_idx": 24,
+    "metrics": {
+      "rougel": 0.0
+    },
+    "dataset": "LexEval-QA"
+  },
+  {
+    "test_idx": 316,
+    "metrics": {
+      "rougel": 0.25510203733444403
+    },
+    "dataset": "LexEval-QA"
+  },
+  {
+    "test_idx": 272,
+    "metrics": {
+      "rougel": 0.18009478389973277
+    },
+    "dataset": "LexEval-QA"
+  },
+  {
+    "test_idx": 57,
+    "metrics": {
+      "rougel": 0.24150943054296903
+    },
+    "dataset": "LexEval-QA"
+  },
+  {
+    "test_idx": 250,
+    "metrics": {
+      "rougel": 0.11999999724450006
+    },
+    "dataset": "LexEval-QA"
+  },
+  {
+    "test_idx": 423,
+    "metrics": {
+      "rougel": 0.10666666308888902
+    },
+    "dataset": "LexEval-QA"
+  },
+  {
+    "test_idx": 412,
+    "metrics": {
+      "rougel": 0.09777777608533336
+    },
+    "dataset": "LexEval-QA"
+  },
+  {
+    "test_idx": 256,
+    "metrics": {
+      "rougel": 0.14507771686112386
+    },
+    "dataset": "LexEval-QA"
+  },
+  {
+    "test_idx": 461,
+    "metrics": {
+      "rougel": 0.19875776152617572
+    },
+    "dataset": "LexEval-QA"
+  },
+  {
+    "test_idx": 232,
+    "metrics": {
+      "rougel": 0.08695651955163049
+    },
+    "dataset": "LexEval-QA"
+  },
+  {
+    "test_idx": 337,
+    "metrics": {
+      "rougel": 0.18009478184485986
+    },
+    "dataset": "LexEval-QA"
+  },
+  {
+    "test_idx": 388,
+    "metrics": {
+      "rougel": 0.07960198850127474
+    },
+    "dataset": "LexEval-QA"
+  },
+  {
+    "test_idx": 173,
+    "metrics": {
+      "rougel": 0.136363633877686
+    },
+    "dataset": "LexEval-QA"
+  },
+  {
+    "test_idx": 9,
+    "metrics": {
+      "rougel": 0.1413427524603879
+    },
+    "dataset": "LexEval-QA"
+  },
+  {
+    "test_idx": 454,
+    "metrics": {
+      "rougel": 0.09312638184237067
+    },
+    "dataset": "LexEval-QA"
+  },
+  {
+    "test_idx": 265,
+    "metrics": {
+      "rougel": 0.2564102530498941
+    },
+    "dataset": "LexEval-QA"
+  },
+  {
+    "test_idx": 48,
+    "metrics": {
+      "Rouge-L": 0.09174311926605505,
+      "BERTScore-F1": 0.8117969036102295,
+      "CLI": 14.89811320754717,
+      "FKGL": 15.053742138364782,
+      "DCRS": 11.880563102725368
+    },
+    "dataset": "JRE-L"
+  },
+  {
+    "test_idx": 665,
+    "metrics": {
+      "Rouge-L": 0.14228187919463087,
+      "BERTScore-F1": 0.828159511089325,
+      "CLI": 15.869026548672561,
+      "FKGL": 15.065267012511445,
+      "DCRS": 12.092614739090632
+    },
+    "dataset": "JRE-L"
+  },
+  {
+    "test_idx": 228,
+    "metrics": {
+      "Rouge-L": 0.1111111111111111,
+      "BERTScore-F1": 0.8165395855903625,
+      "CLI": 18.190128755364814,
+      "FKGL": 17.806012875536485,
+      "DCRS": 12.924368841201717
+    },
+    "dataset": "JRE-L"
+  },
+  {
+    "test_idx": 656,
+    "metrics": {
+      "Rouge-L": 0.14666666666666667,
+      "BERTScore-F1": 0.8143868446350098,
+      "CLI": 17.57409090909091,
+      "FKGL": 16.047337662337664,
+      "DCRS": 12.498965367965369
+    },
+    "dataset": "JRE-L"
+  },
+  {
+    "test_idx": 643,
+    "metrics": {
+      "Rouge-L": 0.16032064128256515,
+      "BERTScore-F1": 0.8256059288978577,
+      "CLI": 16.42987804878049,
+      "FKGL": 17.130487804878047,
+      "DCRS": 13.456909568480299
+    },
+    "dataset": "JRE-L"
+  },
+  {
+    "test_idx": 470,
+    "metrics": {
+      "Rouge-L": 0.13671875,
+      "BERTScore-F1": 0.818976104259491,
+      "CLI": 16.32127659574468,
+      "FKGL": 15.7,
+      "DCRS": 12.781089361702128
+    },
+    "dataset": "JRE-L"
+  },
+  {
+    "test_idx": 618,
+    "metrics": {
+      "Rouge-L": 0.08856088560885608,
+      "BERTScore-F1": 0.7985330820083618,
+      "CLI": 14.589973614775726,
+      "FKGL": 12.900286468149268,
+      "DCRS": 12.114194886292248
+    },
+    "dataset": "JRE-L"
+  },
+  {
+    "test_idx": 284,
+    "metrics": {
+      "Rouge-L": 0.11469534050179211,
+      "BERTScore-F1": 0.8047351837158203,
+      "CLI": 15.751690821256041,
+      "FKGL": 16.18193236714976,
+      "DCRS": 12.329039130434783
+    },
+    "dataset": "JRE-L"
+  },
+  {
+    "test_idx": 787,
+    "metrics": {
+      "Rouge-L": 0.13218390804597702,
+      "BERTScore-F1": 0.836919367313385,
+      "CLI": 17.325683060109288,
+      "FKGL": 16.565858378870676,
+      "DCRS": 12.27782131147541
+    },
+    "dataset": "JRE-L"
+  },
+  {
+    "test_idx": 203,
+    "metrics": {
+      "Rouge-L": 0.08154506437768241,
+      "BERTScore-F1": 0.8113194108009338,
+      "CLI": 15.863885267275098,
+      "FKGL": 15.057628205128207,
+      "DCRS": 12.269161683326091
+    },
+    "dataset": "JRE-L"
+  },
+  {
+    "test_idx": 394,
+    "metrics": {
+      "Rouge-L": 0.13028169014084506,
+      "BERTScore-F1": 0.8118020296096802,
+      "CLI": 13.299771167048057,
+      "FKGL": 12.35701659038902,
+      "DCRS": 11.404850724637681
+    },
+    "dataset": "JRE-L"
+  },
+  {
+    "test_idx": 784,
+    "metrics": {
+      "Rouge-L": 0.11350293542074363,
+      "BERTScore-F1": 0.7985022664070129,
+      "CLI": 13.922911051212935,
+      "FKGL": 13.754060567623277,
+      "DCRS": 11.613771856667196
+    },
+    "dataset": "JRE-L"
+  },
+  {
+    "test_idx": 865,
+    "metrics": {
+      "Rouge-L": 0.1086519114688129,
+      "BERTScore-F1": 0.8039212226867676,
+      "CLI": 14.519680851063836,
+      "FKGL": 15.659817629179333,
+      "DCRS": 11.93973130699088
+    },
+    "dataset": "JRE-L"
+  },
+  {
+    "test_idx": 511,
+    "metrics": {
+      "Rouge-L": 0.11188811188811189,
+      "BERTScore-F1": 0.8120840191841125,
+      "CLI": 16.020560747663556,
+      "FKGL": 15.711838006230533,
+      "DCRS": 12.489522637590863
+    },
+    "dataset": "JRE-L"
+  },
+  {
+    "test_idx": 517,
+    "metrics": {
+      "Rouge-L": 0.11023622047244094,
+      "BERTScore-F1": 0.8144062161445618,
+      "CLI": 15.071345029239769,
+      "FKGL": 14.989134990253412,
+      "DCRS": 12.05305477582846
+    },
+    "dataset": "JRE-L"
+  },
+  {
+    "test_idx": 764,
+    "metrics": {
+      "Rouge-L": 0.09782608695652174,
+      "BERTScore-F1": 0.8183091878890991,
+      "CLI": 17.05011933174224,
+      "FKGL": 15.708381066030231,
+      "DCRS": 12.855660116679926
+    },
+    "dataset": "JRE-L"
+  },
+  {
+    "test_idx": 546,
+    "metrics": {
+      "Rouge-L": 0.10089020771513353,
+      "BERTScore-F1": 0.809448778629303,
+      "CLI": 18.363671128107082,
+      "FKGL": 16.855698728073822,
+      "DCRS": 12.885794903982044
+    },
+    "dataset": "JRE-L"
+  },
+  {
+    "test_idx": 754,
+    "metrics": {
+      "Rouge-L": 0.10830324909747291,
+      "BERTScore-F1": 0.8115205764770508,
+      "CLI": 13.889976689976692,
+      "FKGL": 14.477794135688875,
+      "DCRS": 11.639236302294197
+    },
+    "dataset": "JRE-L"
+  },
+  {
+    "test_idx": 142,
+    "metrics": {
+      "Rouge-L": 0.14045801526717558,
+      "BERTScore-F1": 0.83402419090271,
+      "CLI": 14.706748466257665,
+      "FKGL": 15.923851038639544,
+      "DCRS": 12.113804014637823
+    },
+    "dataset": "JRE-L"
+  },
+  {
+    "test_idx": 616,
+    "metrics": {
+      "Rouge-L": 0.10067114093959732,
+      "BERTScore-F1": 0.8220056295394897,
+      "CLI": 11.719999999999999,
+      "FKGL": 12.116086956521741,
+      "DCRS": 11.013152173913042
+    },
+    "dataset": "JRE-L"
+  },
+  {
+    "test_idx": 867,
+    "metrics": {
+      "Rouge-L": 0.12765957446808512,
+      "BERTScore-F1": 0.8211348652839661,
+      "CLI": 18.777239709443105,
+      "FKGL": 17.815476190476186,
+      "DCRS": 14.179726042507399
+    },
+    "dataset": "JRE-L"
+  },
+  {
+    "test_idx": 826,
+    "metrics": {
+      "Rouge-L": 0.11641791044776119,
+      "BERTScore-F1": 0.8320382237434387,
+      "CLI": 17.74980988593156,
+      "FKGL": 16.727229294098198,
+      "DCRS": 12.695849446189452
+    },
+    "dataset": "JRE-L"
+  },
+  {
+    "test_idx": 323,
+    "metrics": {
+      "Rouge-L": 0.09963099630996311,
+      "BERTScore-F1": 0.8131502270698547,
+      "CLI": 17.260563380281692,
+      "FKGL": 17.561344932339136,
+      "DCRS": 12.811483374758355
+    },
+    "dataset": "JRE-L"
+  },
+  {
+    "test_idx": 597,
+    "metrics": {
+      "Rouge-L": 0.14890510948905109,
+      "BERTScore-F1": 0.8225118517875671,
+      "CLI": 13.856262042389211,
+      "FKGL": 14.936851462602913,
+      "DCRS": 11.925799842354177
+    },
+    "dataset": "JRE-L"
+  },
+  {
+    "test_idx": 938,
+    "metrics": {
+      "Rouge-L": 0.11764705882352941,
+      "BERTScore-F1": 0.8184555768966675,
+      "CLI": 18.089221556886233,
+      "FKGL": 17.45560307955518,
+      "DCRS": 13.754874165953806
+    },
+    "dataset": "JRE-L"
+  },
+  {
+    "test_idx": 146,
+    "metrics": {
+      "Rouge-L": 0.10228802153432032,
+      "BERTScore-F1": 0.8062849640846252,
+      "CLI": 15.366037735849051,
+      "FKGL": 16.0376243567753,
+      "DCRS": 12.561517495711835
+    },
+    "dataset": "JRE-L"
+  },
+  {
+    "test_idx": 990,
+    "metrics": {
+      "Rouge-L": 0.10505050505050505,
+      "BERTScore-F1": 0.8131061792373657,
+      "CLI": 17.44204545454546,
+      "FKGL": 16.05575,
+      "DCRS": 12.381440984848485
+    },
+    "dataset": "JRE-L"
+  },
+  {
+    "test_idx": 117,
+    "metrics": {
+      "Rouge-L": 0.09880239520958083,
+      "BERTScore-F1": 0.8035677075386047,
+      "CLI": 13.520703125,
+      "FKGL": 12.463437500000001,
+      "DCRS": 11.274644711538462
+    },
+    "dataset": "JRE-L"
+  },
+  {
+    "test_idx": 642,
+    "metrics": {
+      "Rouge-L": 0.13953488372093023,
+      "BERTScore-F1": 0.8307328820228577,
+      "CLI": 15.136714975845408,
+      "FKGL": 15.255956237567492,
+      "DCRS": 12.853826172208015
+    },
+    "dataset": "JRE-L"
+  },
+  {
+    "test_idx": 566,
+    "metrics": {
+      "Rouge-L": 0.12448132780082989,
+      "BERTScore-F1": 0.8219488859176636,
+      "CLI": 18.070360110803332,
+      "FKGL": 15.700918744228996,
+      "DCRS": 13.02926109572176
+    },
+    "dataset": "JRE-L"
+  },
+  {
+    "test_idx": 131,
+    "metrics": {
+      "Rouge-L": 0.11920529801324502,
+      "BERTScore-F1": 0.8159998655319214,
+      "CLI": 17.433476394849787,
+      "FKGL": 17.929413447782554,
+      "DCRS": 13.120545970433954
+    },
+    "dataset": "JRE-L"
+  },
+  {
+    "test_idx": 175,
+    "metrics": {
+      "Rouge-L": 0.12962962962962962,
+      "BERTScore-F1": 0.8182931542396545,
+      "CLI": 17.005253940455336,
+      "FKGL": 16.90688494631843,
+      "DCRS": 12.887313492728243
+    },
+    "dataset": "JRE-L"
+  },
+  {
+    "test_idx": 352,
+    "metrics": {
+      "Rouge-L": 0.14598540145985403,
+      "BERTScore-F1": 0.8196187615394592,
+      "CLI": 14.88753180661578,
+      "FKGL": 15.307441157760817,
+      "DCRS": 12.68953282442748
+    },
+    "dataset": "JRE-L"
+  },
+  {
+    "test_idx": 276,
+    "metrics": {
+      "Rouge-L": 0.13333333333333333,
+      "BERTScore-F1": 0.8233428597450256,
+      "CLI": 17.803004291845493,
+      "FKGL": 15.524800735744943,
+      "DCRS": 12.394958777845902
+    },
+    "dataset": "JRE-L"
+  },
+  {
+    "test_idx": 269,
+    "metrics": {
+      "Rouge-L": 0.16338880484114976,
+      "BERTScore-F1": 0.8248063921928406,
+      "CLI": 15.434226804123714,
+      "FKGL": 14.657142857142862,
+      "DCRS": 12.75841556210113
+    },
+    "dataset": "JRE-L"
+  },
+  {
+    "test_idx": 633,
+    "metrics": {
+      "Rouge-L": 0.13885180240320427,
+      "BERTScore-F1": 0.8267643451690674,
+      "CLI": 16.10528233151184,
+      "FKGL": 13.587638967401546,
+      "DCRS": 12.34105308083663
+    },
+    "dataset": "JRE-L"
+  },
+  {
+    "test_idx": 999,
+    "metrics": {
+      "Rouge-L": 0.14814814814814817,
+      "BERTScore-F1": 0.8228663802146912,
+      "CLI": 15.641921397379914,
+      "FKGL": 13.655888958203374,
+      "DCRS": 11.95820871283011
+    },
+    "dataset": "JRE-L"
+  },
+  {
+    "test_idx": 114,
+    "metrics": {
+      "Rouge-L": 0.16266173752310534,
+      "BERTScore-F1": 0.8314107060432434,
+      "CLI": 17.274406332453825,
+      "FKGL": 16.20655284805215,
+      "DCRS": 12.616457100729473
+    },
+    "dataset": "JRE-L"
+  },
+  {
+    "test_idx": 161,
+    "metrics": {
+      "Rouge-L": 0.11173184357541899,
+      "BERTScore-F1": 0.8136817812919617,
+      "CLI": 15.201015228426389,
+      "FKGL": 14.734624365482233,
+      "DCRS": 12.268163147208123
+    },
+    "dataset": "JRE-L"
+  },
+  {
+    "test_idx": 305,
+    "metrics": {
+      "Rouge-L": 0.10196078431372549,
+      "BERTScore-F1": 0.8114135265350342,
+      "CLI": 14.019047619047619,
+      "FKGL": 14.837379385964912,
+      "DCRS": 11.68011679197995
+    },
+    "dataset": "JRE-L"
+  },
+  {
+    "test_idx": 825,
+    "metrics": {
+      "Rouge-L": 0.10641627543035993,
+      "BERTScore-F1": 0.8159717321395874,
+      "CLI": 14.945664739884393,
+      "FKGL": 14.324393063583816,
+      "DCRS": 12.591405844572897
+    },
+    "dataset": "JRE-L"
+  },
+  {
+    "test_idx": 257,
+    "metrics": {
+      "Rouge-L": 0.11173184357541897,
+      "BERTScore-F1": 0.818402886390686,
+      "CLI": 17.21442307692308,
+      "FKGL": 15.299403846153847,
+      "DCRS": 12.790920384615385
+    },
+    "dataset": "JRE-L"
+  },
+  {
+    "test_idx": 70,
+    "metrics": {
+      "Rouge-L": 0.11575562700964628,
+      "BERTScore-F1": 0.8113819360733032,
+      "CLI": 16.84024144869215,
+      "FKGL": 17.48781790744467,
+      "DCRS": 12.843486559356137
+    },
+    "dataset": "JRE-L"
+  },
+  {
+    "test_idx": 887,
+    "metrics": {
+      "Rouge-L": 0.12156862745098038,
+      "BERTScore-F1": 0.8086748719215393,
+      "CLI": 18.18535211267606,
+      "FKGL": 15.402511737089203,
+      "DCRS": 13.288102503912363
+    },
+    "dataset": "JRE-L"
+  },
+  {
+    "test_idx": 165,
+    "metrics": {
+      "Rouge-L": 0.10474631751227495,
+      "BERTScore-F1": 0.8168449997901917,
+      "CLI": 17.354782608695654,
+      "FKGL": 15.151521739130438,
+      "DCRS": 12.791101449275363
+    },
+    "dataset": "JRE-L"
+  },
+  {
+    "test_idx": 777,
+    "metrics": {
+      "Rouge-L": 0.09057971014492754,
+      "BERTScore-F1": 0.8122684955596924,
+      "CLI": 15.890640394088667,
+      "FKGL": 16.598368226600986,
+      "DCRS": 12.401183743842365
+    },
+    "dataset": "JRE-L"
+  },
+  {
+    "test_idx": 933,
+    "metrics": {
+      "Rouge-L": 0.09865470852017937,
+      "BERTScore-F1": 0.8081380724906921,
+      "CLI": 16.076136363636365,
+      "FKGL": 16.27366883116883,
+      "DCRS": 12.748680411255412
+    },
+    "dataset": "JRE-L"
+  },
+  {
+    "test_idx": 908,
+    "metrics": {
+      "Rouge-L": 0.10344827586206896,
+      "BERTScore-F1": 0.82550448179245,
+      "CLI": 17.74464285714286,
+      "FKGL": 16.679003759398494,
+      "DCRS": 13.264944360902255
+    },
+    "dataset": "JRE-L"
+  },
+  {
+    "test_idx": 978,
+    "metrics": {
+      "Rouge-L": 0.12416107382550336,
+      "BERTScore-F1": 0.8246909976005554,
+      "CLI": 15.741150442477885,
+      "FKGL": 15.277717745691664,
+      "DCRS": 12.397055239869587
+    },
+    "dataset": "JRE-L"
+  },
+  {
+    "test_idx": 169,
+    "metrics": {
+      "Rouge-L": 0.11864406779661017,
+      "BERTScore-F1": 0.8125738501548767,
+      "CLI": 19.881612090680097,
+      "FKGL": 18.043550062972297,
+      "DCRS": 12.46390025188917
+    },
+    "dataset": "JRE-L"
+  },
+  {
+    "test_idx": 1529,
+    "metrics": {
+      "score": 5
+    },
+    "dataset": "NFCats"
+  },
+  {
+    "test_idx": 1138,
+    "metrics": {
+      "score": 4
+    },
+    "dataset": "NFCats"
+  },
+  {
+    "test_idx": 419,
+    "metrics": {
+      "score": 5
+    },
+    "dataset": "NFCats"
+  },
+  {
+    "test_idx": 2360,
+    "metrics": {
+      "score": 5
+    },
+    "dataset": "NFCats"
+  },
+  {
+    "test_idx": 1554,
+    "metrics": {
+      "score": 5
+    },
+    "dataset": "NFCats"
+  },
+  {
+    "test_idx": 858,
+    "metrics": {
+      "score": 5
+    },
+    "dataset": "NFCats"
+  },
+  {
+    "test_idx": 1857,
+    "metrics": {
+      "score": 5
+    },
+    "dataset": "NFCats"
+  },
+  {
+    "test_idx": 396,
+    "metrics": {
+      "score": 5
+    },
+    "dataset": "NFCats"
+  },
+  {
+    "test_idx": 2338,
+    "metrics": {
+      "score": 5
+    },
+    "dataset": "NFCats"
+  },
+  {
+    "test_idx": 1731,
+    "metrics": {
+      "score": 1
+    },
+    "dataset": "NFCats"
+  },
+  {
+    "test_idx": 2268,
+    "metrics": {
+      "score": 5
+    },
+    "dataset": "NFCats"
+  },
+  {
+    "test_idx": 2372,
+    "metrics": {
+      "score": 5
+    },
+    "dataset": "NFCats"
+  },
+  {
+    "test_idx": 875,
+    "metrics": {
+      "score": 5
+    },
+    "dataset": "NFCats"
+  },
+  {
+    "test_idx": 79,
+    "metrics": {
+      "score": 5
+    },
+    "dataset": "NFCats"
+  },
+  {
+    "test_idx": 1839,
+    "metrics": {
+      "score": 5
+    },
+    "dataset": "NFCats"
+  },
+  {
+    "test_idx": 525,
+    "metrics": {
+      "score": 5
+    },
+    "dataset": "NFCats"
+  },
+  {
+    "test_idx": 655,
+    "metrics": {
+      "score": 5
+    },
+    "dataset": "NFCats"
+  },
+  {
+    "test_idx": 356,
+    "metrics": {
+      "score": 5
+    },
+    "dataset": "NFCats"
+  },
+  {
+    "test_idx": 2233,
+    "metrics": {
+      "score": 4
+    },
+    "dataset": "NFCats"
+  },
+  {
+    "test_idx": 1139,
+    "metrics": {
+      "score": 5
+    },
+    "dataset": "NFCats"
+  },
+  {
+    "test_idx": 953,
+    "metrics": {
+      "score": 5
+    },
+    "dataset": "NFCats"
+  },
+  {
+    "test_idx": 666,
+    "metrics": {
+      "score": 5
+    },
+    "dataset": "NFCats"
+  },
+  {
+    "test_idx": 2079,
+    "metrics": {
+      "score": 5
+    },
+    "dataset": "NFCats"
+  },
+  {
+    "test_idx": 676,
+    "metrics": {
+      "score": 4
+    },
+    "dataset": "NFCats"
+  },
+  {
+    "test_idx": 2220,
+    "metrics": {
+      "score": 4
+    },
+    "dataset": "NFCats"
+  },
+  {
+    "test_idx": 980,
+    "metrics": {
+      "score": 5
+    },
+    "dataset": "NFCats"
+  },
+  {
+    "test_idx": 284,
+    "metrics": {
+      "score": 4
+    },
+    "dataset": "NFCats"
+  },
+  {
+    "test_idx": 974,
+    "metrics": {
+      "score": 5
+    },
+    "dataset": "NFCats"
+  },
+  {
+    "test_idx": 1849,
+    "metrics": {
+      "score": 4
+    },
+    "dataset": "NFCats"
+  },
+  {
+    "test_idx": 276,
+    "metrics": {
+      "score": 5
+    },
+    "dataset": "NFCats"
+  },
+  {
+    "test_idx": 1863,
+    "metrics": {
+      "score": 5
+    },
+    "dataset": "NFCats"
+  },
+  {
+    "test_idx": 626,
+    "metrics": {
+      "score": 4
+    },
+    "dataset": "NFCats"
+  },
+  {
+    "test_idx": 413,
+    "metrics": {
+      "score": 5
+    },
+    "dataset": "NFCats"
+  },
+  {
+    "test_idx": 2167,
+    "metrics": {
+      "score": 5
+    },
+    "dataset": "NFCats"
+  },
+  {
+    "test_idx": 515,
+    "metrics": {
+      "score": 5
+    },
+    "dataset": "NFCats"
+  },
+  {
+    "test_idx": 1105,
+    "metrics": {
+      "score": 4
+    },
+    "dataset": "NFCats"
+  },
+  {
+    "test_idx": 447,
+    "metrics": {
+      "score": 5
+    },
+    "dataset": "NFCats"
+  },
+  {
+    "test_idx": 102,
+    "metrics": {
+      "score": 5
+    },
+    "dataset": "NFCats"
+  },
+  {
+    "test_idx": 779,
+    "metrics": {
+      "score": 5
+    },
+    "dataset": "NFCats"
+  },
+  {
+    "test_idx": 1389,
+    "metrics": {
+      "score": 5
+    },
+    "dataset": "NFCats"
+  },
+  {
+    "test_idx": 1881,
+    "metrics": {
+      "score": 3
+    },
+    "dataset": "NFCats"
+  },
+  {
+    "test_idx": 937,
+    "metrics": {
+      "score": 4
+    },
+    "dataset": "NFCats"
+  },
+  {
+    "test_idx": 8,
+    "metrics": {
+      "score": 5
+    },
+    "dataset": "NFCats"
+  },
+  {
+    "test_idx": 1620,
+    "metrics": {
+      "score": 5
+    },
+    "dataset": "NFCats"
+  },
+  {
+    "test_idx": 1023,
+    "metrics": {
+      "score": 3
+    },
+    "dataset": "NFCats"
+  },
+  {
+    "test_idx": 177,
+    "metrics": {
+      "score": 5
+    },
+    "dataset": "NFCats"
+  },
+  {
+    "test_idx": 1642,
+    "metrics": {
+      "score": 5
+    },
+    "dataset": "NFCats"
+  },
+  {
+    "test_idx": 386,
+    "metrics": {
+      "score": 4
+    },
+    "dataset": "NFCats"
+  },
+  {
+    "test_idx": 2044,
+    "metrics": {
+      "score": 5
+    },
+    "dataset": "NFCats"
+  },
+  {
+    "test_idx": 1993,
+    "metrics": {
+      "score": 3
+    },
+    "dataset": "NFCats"
+  }
+]
